@@ -1,6 +1,6 @@
 # Community Conduct and Ethics
 
-A high-quality BitDevs community is defined not only by its technical content, but also by its culture. Each location must uphold a respectful, inclusive, and collaborative environment where all participants feel safe to learn, question, and contribute.
+A high-quality BitDevs community is defined not only by its technical content, but also by its culture. Each location must uphold a respectful, inclusive, and collaborative environment where all participants feel safe to learn, question, and contribute. 
 
 ## Community Principles
 

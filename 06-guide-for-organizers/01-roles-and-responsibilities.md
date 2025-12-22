@@ -1,12 +1,12 @@
 # Guide for Organizers 
 
-This section serves as a toolkit for BitDevs organizers. It provides clear guidance on roles, responsibilities, and best practices to help lead effectively and build strong, collaborative teams. It is designed to help both new and active locations improve operations, strengthen leadership, and foster personal growth as community builders.
+This section serves as a toolkit for BitDevs organizers. It provides clear guidance on roles, responsibilities, and best practices to help lead effectively and build strong, collaborative teams. It is designed to help both new and active locations improve operations, strengthen leadership, and foster personal growth as community builders. 
 
 # Roles and Responsibilities
 
 This section defines what it means to be a BitDevs organizer and outlines the roles and responsibilities required to run a high-quality, sustainable location.
 
-## Who Should Be an Organizer?
+## Who Should Be an Organizer? 
 
 A BitDevs organizer is first and foremost a Bitcoin learner and community builder. You do not need to be a professional developer, but you should have a strong interest in Bitcoin’s technical layer, open-source culture, and community education.
 

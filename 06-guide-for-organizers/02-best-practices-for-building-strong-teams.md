@@ -1,6 +1,6 @@
 # Best Practices for Building Strong Teams
 
-Building a strong organizing team is essential for sustainability, consistency, and long-term impact. These best practices help BitDevs locations operate smoothly while avoiding burnout and dependency on a single individual.
+Building a strong organizing team is essential for sustainability, consistency, and long-term impact. These best practices help BitDevs locations operate smoothly while avoiding burnout and dependency on a single individual. 
 
 ## Start Small
 

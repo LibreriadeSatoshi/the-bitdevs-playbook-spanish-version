@@ -1,21 +1,21 @@
 # The BitDevs Playbook v0.1.0
 
-The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive guide for organizers, sponsors, and partners involved in growing Bitcoin-only technical communities across the Global South, starting from Africa. It provides a clear framework for how to start, operate, and sustain BitDevs locations, while outlining the principles, expectations, and standards that ensure every location runs with the same quality, transparency, and impact.
+The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive guide for organizers, sponsors, and partners involved in growing Bitcoin-only technical communities across the Global South, starting with Africa. It provides a framework for starting, operating, and sustaining BitDevs locations with consistent quality, transparency, and impact
 
-It serves as:  
+The playbook serves as:  
 - A manual for organizers setting up or managing BitDevs locations.  
 - A reference for sponsors and partners to understand processes, reporting, and accountability standards.  
-- A resource for for participants and community members to align with the broader movement.
+- A resource for participants and community members to align with the broader BitDevs movement.
 
-> As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.  
+> As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.
 
 ## How to Use This Playbook
-The playbook is divided into sections that mirror the lifecycle of a BitDevs location, from setup to operations, quality control, and closure if necessary. Each section includes steps, templates, and references. While everyone should read the entire playbook to understand how BitDevs locations operate as a cohesive network, the sections below provide a streamlined way to get started based on your role: 
+The playbook mirrors the lifecycle of a BitDevs location: setup, operations, quality control, and closure (if necessary). Each section includes steps, templates, and references. While reading the full playbook is recommended to understand how BitDevs locations operate as a cohesive network, the following guidance can help based on your role:  
 
-- **New Organizers:** Start with Section 2 (“Starting a BitDevs Location”) to learn how to set up a new location from scratch. Follow with Section 4 (“Quality Control”) for standards from day one. Then, read Section 6 (“Guide for Organizers”) for team and personal development guidance.
-- **Active Locations:** Focus first on Section 3 (“Running a BitDevs Location”) for operational guidance. Revisit Section 4 (“Quality Control”) regularly. Refer to Section 6 (“Guide for Organizers”) to continue developing your team and skills.
+- **New Organizers:** Start with Section 2: [“Starting a BitDevs Location”](02-starting-a-bitdevs-location/01-setting-up-a-location.md) to learn how to set up a new location from scratch. Follow with Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) for standards from day one. Then, read Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) for team and personal development guidance.
+- **Active Locations:** Focus first on Section 3: [“Running a BitDevs Location”](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md) for operational guidance. Revisit Section 4; [“Quality Control”](04-quality-control/01-core-standards.md) regularly. Refer to Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) to continue developing your team and skills.
 - **Sponsors and Supporters:** Refer to Section 7 (“Guide for Sponsors”) for funding models, accountability, and collaboration expectations.   
-- **Everyone:** Begin with Section 1 (“Introduction”) to understand BitDevs principles, identity, and ethos.
+- **Everyone:** Begin with Section 1: [“Introduction”](01-introduction/01-about-this-playbook.md) for foundational BitDevs principles, identity, and ethos.
 - **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
 
 ## Who This Playbook Is For
@@ -61,16 +61,16 @@ The playbook is divided into sections that mirror the lifecycle of a BitDevs loc
 - [03-reopening-or-reapplying](05-closing-a-bitdevs-location/03-reopening-or-reapplying.md)  
 
 ### 06 - Guide for Organizers
-- [01-roles-and-responsibilities](06-Guide%20for%20Organizers/01-Roles%20and%20Responsibilities.md)  
-- [02-best-practices-for-building-strong-teams](06-Guide%20for%20Organizers/02-Best%20Practices%20for%20Building%20Strong%20Teams.md)  
-- [03-recommended-tools-and-resources](06-Guide%20for%20Organizers/03-Recommended%20Tools%20and%20Resources.md)  
-- [04-personal-development-and-growth-for-organizers](06-Guide%20for%20Organizers/04-Personal%20Development%20and%20Growth%20for%20Organizers.md)  
+- [01-roles-and-responsibilities](06-guide-for-organizers/01-roles-and-responsibilities.md)  
+- [02-best-practices-for-building-strong-teams](06-guide-for-organizers/02-best-practices-for-building-strong-teams.md)  
+- [03-recommended-tools-and-resources](06-guide-for-organizers/03-recommended-tools-and-resources.md)  
+- [04-personal-development-and-growth-for-organizers](06-guide-for-organizers/04-personal-development-and-growth-for-organizers.md)  
 
 ### 07 - Guide for Sponsors
-- [01-how-sponsorship-works-with-btrust](07-Guide%20for%20Sponsors/01-How%20Sponsorship%20Works%20(with%20Btrust).md)  
-- [02-what-sponsors-can-and-cant-support](07-Guide%20for%20Sponsors/02-What%20Sponsors%20Can%20(and%20Can’t)%20Support.md)  
-- [03-accountability-and-collaboration](07-Guide%20for%20Sponsors/03-Accountability%20and%20Collaboration.md)  
-- [04-partnering-for-long-term-impact](07-Guide%20for%20Sponsors/04-Partnering%20for%20Long-Term%20Impact.md)  
+- [01-how-sponsorship-works-with-btrust](07-guide-for-sponsors/01-how-sponsorship-works-(with-Btrust).md)  
+- [02-what-sponsors-can-and-cant-support](07-guide-for-sponsors/02-what-sponsors-can-(and-can’t)-support.md)  
+- [03-accountability-and-collaboration](07-guide-for-sponsors/03-accountability-and-collaboration.md)  
+- [04-partnering-for-long-term-impact](07-guide-for-sponsors/04-partnering-for-long-term-impact.md)  
 
 ### 08 - Annexes
 - [Annex A: BitDevs Guide](08-annexes/annex-a-bitdevs-guide.md)  
@@ -85,29 +85,25 @@ The playbook is divided into sections that mirror the lifecycle of a BitDevs loc
 - [Annex J: Quality Control Templates](08-annexes/annex-j-quality-control-templates.md)  
 - [Annex K: Location Closure Checklist](08-annexes/annex-k-location-closure-checklist.md)  
 
-The playbook consolidates guidance, values, and practices for organizing credible, independent, and collaborative Bitcoin developer communities.  
-
-**Contact:**  
-- Email: [builders@btrust.tech](mailto:builders@btrust.tech)  
-- Website: [https://btrust.tech/bitdevs](https://btrust.tech/bitdevs)  
-</details>
-
 ## Contributors and Reviewers
 
-### Lead Author
-**Stephanie Titcombe** — Program & Operations Lead, Btrust  
+| Name                | Role                  | Affiliation                    | Github | Email                  |
+|--------------------|---------------------|-------------------------------|--------|-----------------------|
+| Stephanie Titcombe  | Lead Author & Maintainer | Program & Operations Lead, Btrust | [@StephTitcombe](https://github.com/StephTitcombe) | [stephanie@btrust.tech](mailto:stephanie@btrust.tech) |
 
-### Reviewers and Contributors
-- **Abubakar Nur Khalil** — CEO, Btrust  
-- **Simon Njeru** — Lead Organizer, BitDevs Nairobi  
-- **Tobechi Chukwuleta** — Lead Organizer, BitDevs Lagos  
+| Name                | Role       | Affiliation               | Github 
+|--------------------|------------|--------------------------|--------------|
+| Abubakar Nur Khalil | Reviewer   | CEO, Btrust              | [@Zero-1729](https://github.com/Zero-1729)
+| Simon Njeru         | Reviewer   | Lead Organizer, BitDevs Nairobi | [@xyephy](https://github.com/xyephy)
+| Tobechi Chukwuleta  | Reviewer   | Lead Organizer, BitDevs Lagos  | [@TChukwuleta](https://github.com/TChukwuleta)
 
 ## Document Control
 
 ### Version History
-| Version | Date         | Description                        | Author / Editor       |
-|---------|--------------|------------------------------------|---------------------|
-| 0.1.0   | December 2025| Initial publication                | Stephanie Titcombe  |
+
+| Version | Date         | Description                                                   | Author / Editor       |
+|---------|--------------|---------------------------------------------------------------|---------------------|
+| 0.1.0   | December 2025 | Initial publication; full draft of BitDevs Playbook           | Stephanie Titcombe  |
 
 ### Update Cycle
 - Minor updates: Every 6 months  
@@ -118,10 +114,7 @@ The playbook consolidates guidance, values, and practices for organizing credibl
 All feedback and suggested edits should be submitted to [builders@btrust.tech](mailto:builders@btrust.tech). Proposals will be reviewed collaboratively with organizers, sponsors, and regional leads before inclusion in future versions.
 
 ### Distribution
-
-The Playbook is maintained as a digital document accessible to:
-- BitDevs organizers and volunteers
-- Sponsors and partners
-- Educational and technical collaborators in the Bitcoin ecosystem
-
-Printed copies, if produced, should clearly state the version and date on the cover page.
+This Playbook is maintained digitally for:  
+- BitDevs organizers and volunteers  
+- Sponsors and partners  
+- Educational and technical collaborators in the Bitcoin ecosystem  

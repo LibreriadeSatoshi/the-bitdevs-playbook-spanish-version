@@ -13,7 +13,7 @@ To qualify for Btrust sponsorship, a BitDevs location must:
 - Submit monthly Meetup Reports and Finance Reports using the standard templates.
 - Participate in monthly organizer check-ins for continued learning and accountability.
 
-*(See Annex F: Monthly Organizer Check-in Template.)*
+*(See [Annex F: Monthly Organizer Check-in Template.](08-annexes.md))*
 
 ## Application Process
 

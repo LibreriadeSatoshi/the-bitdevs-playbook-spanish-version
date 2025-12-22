@@ -18,10 +18,10 @@ The playbook serves as:
 ## How to Use This Playbook
 The playbook mirrors the lifecycle of a BitDevs location: setup, operations, quality control, and closure (if necessary). Each section includes steps, templates, and references. While reading the full playbook is recommended to understand how BitDevs locations operate as a cohesive network, the guidance below helps you get started based on your role.
 
-- **New Organizers:** Start with Section 2: [“Starting a BitDevs Location”](02-starting-a-bitdevs-location/01-setting-up-a-location) to learn how to set up a new location from scratch. Follow with Section 4: [“Quality Control”](04-quality-control/01-core-standards) for standards from day one. Then, read Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities) for team and personal development guidance.
-- **Active Locations:** Focus first on Section 3: [“Running a BitDevs Location”](03-running-a-bitdevs-location/01-meetup-planning-and-coordination) for operational guidance. Revisit Section 4: [“Quality Control”](04-quality-control/01-core-standards) regularly. Refer to Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities) to continue developing your team and skills.
+- **New Organizers:** Start with Section 2: [“Starting a BitDevs Location”](02-starting-a-bitdevs-location/01-setting-up-a-location.md) to learn how to set up a new location from scratch. Follow with Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) for standards from day one. Then, read Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) for team and personal development guidance.
+- **Active Locations:** Focus first on Section 3: [“Running a BitDevs Location”](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md) for operational guidance. Revisit Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) regularly. Refer to Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) to continue developing your team and skills.
 - **Sponsors and Supporters:** Refer to Section 7 (“Guide for Sponsors”) for funding models, accountability, and collaboration expectations.   
-- **Everyone:** Begin with Section 1: [“Introduction”](01-introduction/01-about-this-playbook) for foundational BitDevs principles, identity, and ethos.
+- **Everyone:** Begin with Section 1: [“Introduction”](01-introduction/01-about-this-playbook.md) for foundational BitDevs principles, identity, and ethos.
 - **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
 
 ## Who This Playbook Is For
@@ -36,60 +36,60 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 ## Table of Contents
 
 ### 01 - Introduction
-- [01-about-this-playbook](01-introduction/01-about-this-playbook)  
-- [02-about-bitdevs](01-introduction/02-about-bitdevs)  
-- [03-identity-and-core-principles](01-introduction/03-identity-and-core-principles)  
-- [04-bitdevs-in-africa-sponsored-by-btrust](01-introduction/04-bitdevs-in-africa-sponsored-by-btrust)  
-- [05-records-and-documentation](01-introduction/05-records-and-documentation)  
+- [01-about-this-playbook](01-introduction/01-about-this-playbook.md)  
+- [02-about-bitdevs](01-introduction/02-about-bitdevs.md)  
+- [03-identity-and-core-principles](01-introduction/03-identity-and-core-principles.md)  
+- [04-bitdevs-in-africa-sponsored-by-btrust](01-introduction/04-bitdevs-in-africa-sponsored-by-btrust.md)  
+- [05-records-and-documentation](01-introduction/05-records-and-documentation.md)  
 
 ### 02 - Starting a BitDevs Location
-- [01-setting-up-a-location](02-starting-a-bitdevs-location/01-setting-up-a-location)  
-- [02-finding-and-working-with-sponsors](02-starting-a-bitdevs-location/02-finding-and-working-with-sponsors)  
-- [03-getting-approved-for-sponsorship-(with-Btrust)](02-starting-a-bitdevs-location/03-getting-approved-for-sponsorship-with-Btrust)  
-- [04-building-your-organizing-team](02-starting-a-bitdevs-location/04-building-your-organizing-team)  
-- [05-planning-and-hosting-your-first-meetup](02-starting-a-bitdevs-location/05-planning-and-hosting-your-first-meetup)  
+- [01-setting-up-a-location](02-starting-a-bitdevs-location/01-setting-up-a-location.md)  
+- [02-finding-and-working-with-sponsors](02-starting-a-bitdevs-location/02-finding-and-working-with-sponsors.md)  
+- [03-getting-approved-for-sponsorship-(with-Btrust)](02-starting-a-bitdevs-location/03-getting-approved-for-sponsorship-with-Btrust.md)  
+- [04-building-your-organizing-team](02-starting-a-bitdevs-location/04-building-your-organizing-team.md)  
+- [05-planning-and-hosting-your-first-meetup](02-starting-a-bitdevs-location/05-planning-and-hosting-your-first-meetup.md)  
 
 ### 03 - Running a BitDevs Location
-- [01-meetup-planning-and-coordination](03-running-a-bitdevs-location/01-meetup-planning-and-coordination)  
-- [02-choosing-topics-and-formats](03-running-a-bitdevs-location/02-choosing-topics-and-formats)  
-- [03-growing-and-engaging-the-community](03-running-a-bitdevs-location/03-community-growth-and-engagement)  
-- [04-reporting-and-communication](03-running-a-bitdevs-location/04-reporting-and-communication)  
+- [01-meetup-planning-and-coordination](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md)  
+- [02-choosing-topics-and-formats](03-running-a-bitdevs-location/02-choosing-topics-and-formats.md)  
+- [03-growing-and-engaging-the-community](03-running-a-bitdevs-location/03-community-growth-and-engagement.md)  
+- [04-reporting-and-communication](03-running-a-bitdevs-location/04-reporting-and-communication.md)  
 
 ### 04 - Quality Control
-- [01-core-standards](04-quality-control/01-core-standards)  
-- [02-community-conduct-and-ethics](04-quality-control/02-community-conduct-and-ethics)  
-- [03-monitoring-and-evaluation](04-quality-control/03-monitoring-and-evaluation)  
-- [04-handling-challenges](04-quality-control/04-handling-challenges)  
+- [01-core-standards](04-quality-control/01-core-standards.md)  
+- [02-community-conduct-and-ethics](04-quality-control/02-community-conduct-and-ethics.md)  
+- [03-monitoring-and-evaluation](04-quality-control/03-monitoring-and-evaluation.md)  
+- [04-handling-challenges](04-quality-control/04-handling-challenges.md)  
 
 ### 05 - Closing a BitDevs Location
-- [01-when-and-how-to-pause-or-close-a-location](05-closing-a-bitdevs-location/01-when-and-how-to-pause-or-close-a-location)  
-- [02-final-reports-and-handover](05-closing-a-bitdevs-location/02-final-reports-and-handover)  
-- [03-reopening-or-reapplying](05-closing-a-bitdevs-location/03-reopening-or-reapplying)  
+- [01-when-and-how-to-pause-or-close-a-location](05-closing-a-bitdevs-location/01-when-and-how-to-pause-or-close-a-location.md)  
+- [02-final-reports-and-handover](05-closing-a-bitdevs-location/02-final-reports-and-handover.md)  
+- [03-reopening-or-reapplying](05-closing-a-bitdevs-location/03-reopening-or-reapplying.md)  
 
 ### 06 - Guide for Organizers
-- [01-roles-and-responsibilities](06-guide-for-organizers/01-roles-and-responsibilities)  
-- [02-best-practices-for-building-strong-teams](06-guide-for-organizers/02-best-practices-for-building-strong-teams)  
-- [03-recommended-tools-and-resources](06-guide-for-organizers/03-recommended-tools-and-resources)  
-- [04-personal-development-and-growth-for-organizers](06-guide-for-organizers/04-personal-development-and-growth)  
+- [01-roles-and-responsibilities](06-guide-for-organizers/01-roles-and-responsibilities.md)  
+- [02-best-practices-for-building-strong-teams](06-guide-for-organizers/02-best-practices-for-building-strong-teams.md)  
+- [03-recommended-tools-and-resources](06-guide-for-organizers/03-recommended-tools-and-resources.md)  
+- [04-personal-development-and-growth-for-organizers](06-guide-for-organizers/04-personal-development-and-growth.md)  
 
 ### 07 - Guide for Sponsors
-- [01-how-sponsorship-works-with-btrust](07-guide-for-sponsors/01-how-sponsorship-works-with-btrust)  
-- [02-what-sponsors-can-and-cant-support](07-guide-for-sponsors/02-what-sponsors-can-and-can’t-support)  
-- [03-accountability-and-collaboration](07-guide-for-sponsors/03-accountability-and-collaboration)  
-- [04-partnering-for-long-term-impact](07-guide-for-sponsors/04-partnering-for-long-term-impact)  
+- [01-how-sponsorship-works-with-btrust](07-guide-for-sponsors/01-how-sponsorship-works-with-btrust.md)  
+- [02-what-sponsors-can-and-cant-support](07-guide-for-sponsors/02-what-sponsors-can-and-can’t-support.md)  
+- [03-accountability-and-collaboration](07-guide-for-sponsors/03-accountability-and-collaboration.md)  
+- [04-partnering-for-long-term-impact](07-guide-for-sponsors/04-partnering-for-long-term-impact.md)  
 
 ### 08 - Annexes
-- [Annex A: BitDevs Guide](08-annexes)  
-- [Annex B: BitDevs Map Across Africa](08-annexes)  
-- [Annex C: Event Report Format](08-annexes)  
-- [Annex D: Finance Report Format](08-annexes)
-- [Annex E: Sponsorship Proposal Template](08-annexes)  
-- [Annex F: Monthly Organizer Check-in](08-annexes)  
-- [Annex G: Budget Request Template](08-annexes)  
-- [Annex H: Expense Protocol](08-annexes)  
-- [Annex I: Starting a BitDevs Checklist](08-annexes)  
-- [Annex J: Quality Control Templates](08-annexes) 
-- [Annex K: Location Closure Checklist](08-annexes)  
+- [Annex A: BitDevs Guide](08-annexes.md)  
+- [Annex B: BitDevs Map Across Africa](08-annexes.md)  
+- [Annex C: Event Report Format](08-annexes.md)  
+- [Annex D: Finance Report Format](08-annexes.md)
+- [Annex E: Sponsorship Proposal Template](08-annexes.md)  
+- [Annex F: Monthly Organizer Check-in](08-annexes.md)  
+- [Annex G: Budget Request Template](08-annexes.md)  
+- [Annex H: Expense Protocol](08-annexes.md)  
+- [Annex I: Starting a BitDevs Checklist](08-annexes.md)  
+- [Annex J: Quality Control Templates](08-annexes.md) 
+- [Annex K: Location Closure Checklist](08-annexes.md)  
 
 ## Contributors and Reviewers
 
@@ -107,7 +107,7 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 
 Suggestions, corrections, and improvements are welcome.
 
-Please review the [CONTRIBUTING.md](CONTRIBUTING) file for detailed guidelines. Contributions can be made via email at **builders@btrust.tech** or by opening a GitHub pull request. All proposals are reviewed collaboratively with the Playbook maintainer and, where relevant, organizers, sponsors, and regional leads before inclusion in future versions.
+Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. Contributions can be made via email at **builders@btrust.tech** or by opening a GitHub pull request. All proposals are reviewed collaboratively with the Playbook maintainer and, where relevant, organizers, sponsors, and regional leads before inclusion in future versions.
 
 ## Document Control
 

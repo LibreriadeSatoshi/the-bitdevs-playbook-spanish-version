@@ -19,8 +19,9 @@ Your first meetup introduces your community to what BitDevs is. The goal is to k
 - Use estimated attendance numbers to guide your planning.
 - Submit budget proposals early if applying for sponsorship.  
 - Btrust-sponsored locations submit through the standard monthly expense process before the event.
-*(See: Annex G: Budget Request Template)*  
-*(See: Annex H: Expense Protocol)*
+
+*(See: [Annex G: Budget Request Template](08-annexes.md))*  
+*(See: [Annex H: Expense Protocol](08-annexes.md))*
 
 ### 4. Curate Topics
 - Select relevant Bitcoin developments or research topics.
@@ -82,6 +83,6 @@ Once your first event is completed and reported:
 - Track documentation, finances, and progress.
 - Build relationships with other BitDevs locations to exchange ideas and resources.
 
-By completing these steps, your location transitions from **setup** to **active status**, ready to operate under the guidelines in **Section 3: Running a BitDevs Location**.
+By completing these steps, your location transitions from **setup** to **active status**, ready to operate under the guidelines in **Section 3: [Running a BitDevs Location](03-running-a-bitdevs-location.md)**.
 
-*(See: Annex I: Starting a BitDevs Checklist)*
+*(See: [Annex I: Starting a BitDevs Checklist](08-annexes))*

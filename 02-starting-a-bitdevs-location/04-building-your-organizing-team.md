@@ -7,7 +7,7 @@ A strong organizing team is the backbone of every BitDevs location. While team s
 At a minimum, every BitDevs location should define and assign the following roles. One person may hold more than one role in smaller teams, especially during early stages.
 
 | Role | Key Responsibilities |
-|-----|----------------------|
+|------|-----------------------|
 | **Lead Organizer** | Coordinates overall planning, oversees communication with sponsors or partners, and ensures compliance with reporting and operational standards. |
 | **Technical Moderator** | Curates topics and readings for each meetup, moderates Socratic discussions, and maintains the technical depth and quality of conversations. |
 | **Finance & Logistics Lead** | Manages budgeting, expense tracking, and the submission of funding requests or reimbursements. |

@@ -14,7 +14,7 @@ Closing a location is an administrative process that requires completion of all 
   Ensure your location folder contains up-to-date materials, including meeting notes, reports, receipts, photos (if approved), and any operational templates used during active periods.
 
 - **Public Communication**  
-  Post a short notice or pinned message on your website or primary social channel indicating that the location is paused or closed. This helps external visitors understand the status and avoids confusion.
+  Post a short notice or pinned message on your website or primary social channel indicating that the location is paused or closed. This helps external visitors understand the status and avoids confusion. 
 
 - **Team Handover**  
   If another organizer or a new team plans to continue in the future, provide access to digital assets (email accounts, website admin access, shared folders, and social media) only where there is mutual agreement between the outgoing and incoming teams. This ensures trust, consent, and clarity around credibility and use of the location’s assets.

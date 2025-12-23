@@ -20,7 +20,7 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 
 - **New Organizers:** Start with Section 2: [“Starting a BitDevs Location”](02-starting-a-bitdevs-location/01-setting-up-a-location.md) to learn how to set up a new location from scratch. Follow with Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) for standards from day one. Then, read Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) for team and personal development guidance.
 - **Active Locations:** Focus first on Section 3: [“Running a BitDevs Location”](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md) for operational guidance. Revisit Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) regularly. Refer to Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) to continue developing your team and skills.
-- **Sponsors and Supporters:** Refer to Section 7 (“Guide for Sponsors”) for funding models, accountability, and collaboration expectations.   
+- **Sponsors and Supporters:** Refer to Section 7 ([“Guide for Sponsors”](07-guide-for-sponsors/01-how-sponsorship-works-with-btrust.md)) for funding models, accountability, and collaboration expectations.   
 - **Everyone:** Begin with Section 1: [“Introduction”](01-introduction/01-about-this-playbook.md) for foundational BitDevs principles, identity, and ethos.
 - **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
 

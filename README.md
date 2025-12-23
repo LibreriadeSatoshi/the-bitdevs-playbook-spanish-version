@@ -108,7 +108,7 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 
 Suggestions, corrections, and improvements are welcome.
 
-Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. Contributions can be made via email at **builders@btrust.tech** or by opening a GitHub pull request. All proposals are reviewed collaboratively with the Playbook maintainer and, where relevant, organizers, sponsors, and regional leads before inclusion in future versions.
+Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. Contributions can be made by opening a GitHub issue or by submitting a pull request. All proposals are reviewed collaboratively with the Playbook maintainer and, where relevant, organizers and contributors, before being included in future versions. 
 
 ## Document Control
 

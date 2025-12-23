@@ -1,9 +1,9 @@
 # The BitDevs Playbook
 
-[![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://btrust.tech/bitdevs) 
-[![Last Updated](https://img.shields.io/badge/last%20updated-December%202025-lightgrey)](https://btrust.tech/bitdevs)
-[![Contact](https://img.shields.io/badge/contact-builders@btrust.tech-green)](mailto:builders@btrust.tech)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue)](LICENSE.md)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue?style=flat-square)](https://btrust.tech/bitdevs) 
+[![Last Updated](https://img.shields.io/badge/last%20updated-December%202025-lightgrey?style=flat-square)](https://btrust.tech/bitdevs)
+[![Contact](https://img.shields.io/badge/contact-builders@btrust.tech-deepgreen?style=flat-square)](mailto:builders@btrust.tech)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue?style=flat-square)](LICENSE.md)
 
 > **Status:** Initial release (v0.1.0). Actively in use by Btrust-supported BitDevs locations.
 > 
@@ -132,4 +132,4 @@ This Playbook is maintained digitally for:
 
 ## License
 
-This Playbook is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md) license.
+This Playbook is © 2025 [Btrust](https://www.btrust.tech/) and licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md) license.

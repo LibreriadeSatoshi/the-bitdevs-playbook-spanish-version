@@ -6,7 +6,7 @@
 
 > **Status:** Initial release (v0.1.0). Actively in use by Btrust-supported BitDevs locations.
 > 
-> As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.
+> **Note**: As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.
 
 The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive guide for organizers, sponsors, and partners involved in growing Bitcoin-only technical communities across the Global South, starting with Africa. It provides a framework for starting, operating, and sustaining BitDevs locations with consistent quality, transparency, and impact. 
 
@@ -26,7 +26,7 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 - **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
 
 ## Who This Playbook Is For
-> Anyone planning, funding, supporting, or attending BitDevs meetups can benefit from this guide.
+> **Note**: Anyone planning, funding, supporting, or attending BitDevs meetups can benefit from this guide.
 
 - **BitDevs Organizers**: Lead or co-lead local locations.  
 - **Organizing Teams**: Support logistics, communication, and technical content.  

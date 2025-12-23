@@ -14,13 +14,13 @@ The most effective sponsorships are:
 
 ## Sponsorship Models
 
+> **Note**: Sponsorships must always be **non-conditional**; no promotional requirements, sales pitches, or branding impositions are allowed within BitDevs events.
+
 While each sponsor may have a unique approach, support typically takes one of the following forms:
 
 - **Recurring Sponsorship:** Regular funding (monthly or quarterly) for consistent operations.
 - **Per-Event Sponsorship:** Funding tied to specific events, conferences, or workshops.
 - **In-Kind Support:** Provision of venues, technical resources, printing, or refreshments instead of direct funding.
-
-> Sponsorships must always be **non-conditional**: no promotional requirements, sales pitches, or branding impositions are allowed within BitDevs events.
 
 ## Example: Getting Approved for Sponsorship with Btrust
 

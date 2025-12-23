@@ -12,13 +12,13 @@ Short-term funding can help locations start, but long-term partnerships help the
 
 ## Building a Network of Shared Purpose
 
+> **Note**: For Btrust, this vision translates into building a network of autonomous, technically grounded communities across the Global South, united by open knowledge and shared values, not brand influence. 
+
 Sponsorship is most effective when aligned with a shared mission: to strengthen open-source Bitcoin development and empower local talent. Sponsors can enhance this mission by:
 
 - Supporting regional collaboration and shared events.
 - Providing mentorship and learning resources for organizers.
 - Helping locations connect with the wider developer ecosystem. 
-
-> For Btrust, this vision translates into building a network of autonomous, technically grounded communities across the Global South, united by open knowledge and shared values, not brand influence. 
 
 ## Responsible Exit and Continuity
 
@@ -28,6 +28,6 @@ When a sponsorship term ends, sponsors should ensure a smooth transition:
 - Share recommendations for alternative support sources.
 - Help preserve continuity by transferring knowledge, contacts, or tools.
 
-> This ensures the location remains active and respected even after funding shifts.
+> **Note**: This ensures the location remains active and respected even after funding shifts.
 
 Sponsors play a key enabling role in the growth and sustainability of BitDevs locations, not by directing them, but by empowering independence, accountability, and shared learning. Clear communication, transparency, and respect for community autonomy make sponsorship a partnership that drives lasting impact.

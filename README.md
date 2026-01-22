@@ -64,7 +64,7 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 - [04-handling-challenges](04-quality-control/04-handling-challenges.md)  
 
 ### 05 - Closing a BitDevs Location
-- [01-when-and-how-to-pause-or-close-a-location](05-closing-a-bitdevs-location/01-when-and-how-to-pause-or-close-a-location.md)  
+- [01-when-and-how-to-pause-or-close-a-location](05-closing-a-bitdevs-location/01-when-and-how-to-pause-or-close.md)  
 - [02-final-reports-and-handover](05-closing-a-bitdevs-location/02-final-reports-and-handover.md)  
 - [03-reopening-or-reapplying](05-closing-a-bitdevs-location/03-reopening-or-reapplying.md)  
 
@@ -76,7 +76,7 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 
 ### 07 - Guide for Sponsors
 - [01-how-sponsorship-works-with-btrust](07-guide-for-sponsors/01-how-sponsorship-works-with-btrust.md)  
-- [02-what-sponsors-can-and-cant-support](07-guide-for-sponsors/02-what-sponsors-can-and-can’t-support.md)  
+- [02-what-sponsors-can-and-cant-support](07-guide-for-sponsors/02-what-sponsors-can-and-can't-support.md)  
 - [03-accountability-and-collaboration](07-guide-for-sponsors/03-accountability-and-collaboration.md)  
 - [04-partnering-for-long-term-impact](07-guide-for-sponsors/04-partnering-for-long-term-impact.md)  
 

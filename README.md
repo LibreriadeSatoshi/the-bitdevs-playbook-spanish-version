@@ -53,7 +53,7 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 
 ### 03 - Running a BitDevs Location
 - [01-meetup-planning-and-coordination](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md)  
-- [02-choosing-topics-and-formats](03-running-a-bitdevs-location/02-choosing-topics-and-formats.md)  
+- [02-choosing-topics-and-formats](03-running-a-bitdevs-location/02-topics-and-formats.md)  
 - [03-growing-and-engaging-the-community](03-running-a-bitdevs-location/03-community-growth-and-engagement.md)  
 - [04-reporting-and-communication](03-running-a-bitdevs-location/04-reporting-and-communication.md)  
 

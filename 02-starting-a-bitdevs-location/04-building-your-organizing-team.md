@@ -1,26 +1,26 @@
-# Building Your Organizing Team
+# Construir tu Equipo Organizador
 
-A strong organizing team is the backbone of every BitDevs location. While team size and structure may vary by city, each location should aim to balance technical competence with organizational reliability to ensure long-term sustainability.
+Un equipo organizador sólido es la columna vertebral de cada ubicación de BitDevs. Si bien el tamaño y la estructura del equipo pueden variar según la ciudad, cada ubicación debería apuntar a equilibrar competencia técnica con confiabilidad organizacional para asegurar sostenibilidad a largo plazo.
 
-## Core Organizing Roles
+## Roles Organizadores Fundamentales
 
-At a minimum, every BitDevs location should define and assign the following roles. One person may hold more than one role in smaller teams, especially during early stages.
+Como mínimo, cada ubicación de BitDevs debería definir y asignar los siguientes roles. Una persona puede tener más de un rol en equipos más pequeños, especialmente durante las etapas iniciales.
 
-| Role | Key Responsibilities |
+| Rol | Responsabilidades Clave |
 |------|-----------------------|
-| **Lead Organizer** | Coordinates overall planning, oversees communication with sponsors or partners, and ensures compliance with reporting and operational standards. |
-| **Technical Moderator** | Curates topics and readings for each meetup, moderates Socratic discussions, and maintains the technical depth and quality of conversations. |
-| **Finance & Logistics Lead** | Manages budgeting, expense tracking, and the submission of funding requests or reimbursements. |
+| **Organizador Principal** | Coordina la planificación general, supervisa la comunicación con patrocinadores o colaboradores, y asegura el cumplimiento de los estándares de reporte y operacionales. |
+| **Moderador Técnico** | Selecciona temas y lecturas para cada reunión, modera discusiones socráticas, y mantiene la profundidad técnica y calidad de las conversaciones. |
+| **Líder de Finanzas y Logística** | Gestiona presupuestos, seguimiento de gastos y el envío de solicitudes de financiamiento o reembolsos. |
 
-Depending on capacity, locations may also include optional roles such as:
+Dependiendo de la capacidad, las ubicaciones también pueden incluir roles opcionales como:
 
-- **Communications or Outreach Lead** – Promotes meetups within the local developer ecosystem and manages community announcements or social channels.
+- **Líder de Comunicaciones o Difusión** – Promociona las reuniones dentro del ecosistema de desarrolladores local y gestiona anuncios comunitarios o canales sociales.
 
-## Team Guidelines
+## Guías para el Equipo
 
-Organizing teams are expected to follow these best practices:
+Se espera que los equipos organizadores sigan estas mejores prácticas:
 
-- Meet regularly to plan upcoming sessions and review reports.
-- Use shared folders and standard templates to support documentation, transparency, and continuity.
-- Rotate tasks where possible to prevent burnout and build capacity across the team.
-- Stay aligned with regional updates, shared learnings, and best practices from other BitDevs locations.
+- Reunirse regularmente para planificar sesiones próximas y revisar reportes.
+- Usar carpetas compartidas y plantillas estándar para apoyar la documentación, transparencia y continuidad.
+- Rotar tareas donde sea posible para prevenir agotamiento y desarrollar capacidad a lo largo del equipo.
+- Mantenerse alineados con actualizaciones regionales, aprendizajes compartidos y mejores prácticas de otras ubicaciones de BitDevs.

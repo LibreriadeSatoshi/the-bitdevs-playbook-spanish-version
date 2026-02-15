@@ -1,53 +1,64 @@
-# Records and Documentation
+# Registros y Documentación
 
-Each BitDevs location is assigned a shared folder named after their city (e.g., BitDevs Nairobi) for storing reports, budgets, and financial records. This folder is managed by the organizing team and must be kept up to date and well organized, as it is reviewed monthly by Btrust.
+Mantener registros organizados de las reuniones y operaciones es una práctica recomendada para todas las ubicaciones de BitDevs, independientemente de su modelo de financiamiento. Una buena documentación ayuda a mantener la transparencia, facilita la colaboración, y permite que futuras generaciones de organizadores aprendan de la experiencia acumulada.
 
-## Folder Structure
+Para ubicaciones que operan con patrocinio formal, estos registros pueden ser requeridos por los sponsors. Para ubicaciones independientes, son herramientas valiosas para mantener continuidad y profesionalismo.
 
-Every location’s main folder must include the following two core subfolders:
+## Estructura de Carpetas Sugerida
 
-### 1. Meetup Reports
+Se recomienda que cada ubicación mantenga una estructura organizada con las siguientes dos carpetas principales:
 
-This folder contains documentation and summaries for each monthly meetup. Each entry should include:
+### 1. Reportes de Reuniones
 
-- A completed event report using the standard template *(see [Annex C: Event Report Format](08-annexes.md))*  
-- Key takeaways from the session  
-- Photos, if available and shared with consent  
-- Agenda, speaker list, and attendance highlights  
-- A link to the receipt folder and any relevant supporting documents  
-- Notes on challenges faced or lessons learned  
-- Follow-up actions and plans for the next meetup  
+Esta carpeta puede contener documentación y resúmenes de cada reunión mensual. Cada entrada podría incluir:
 
-**Naming convention:**  
-`YYYY-MM_BitDevs XXX_Meetup_Report`  
-*(e.g., 2025-04_BitDevs Nairobi_Meetup_Report)*
+- Un reporte del evento usando una plantilla estandarizada *(ver [Anexo C: Formato de Reporte de Eventos](08-annexes.md))*
+- Puntos clave y aprendizajes de la sesión
+- Fotos, si están disponibles y compartidas con consentimiento
+- Agenda, lista de presentadores y aspectos destacados de asistencia
+- Notas sobre desafíos enfrentados o lecciones aprendidas
+- Acciones de seguimiento y planes para la próxima reunión
 
-### 2. Finance
+**Convención de nombres sugerida:**
+`AAAA-MM_BitDevs XXX_Reporte_Reunion`
+*(ej., 2025-04_BitDevs Buenos Aires_Reporte_Reunion)*
 
-This folder is used to track all financial activity related to meetup operations. Each entry must include:
+### 2. Finanzas
 
-- A completed finance report using the standard template *(see [Annex D: Finance Report Format](08-annexes.md))*  
-- Receipts and scanned invoices for every expense  
-  - These should be uploaded in a separate folder and linked in the report  
-- The BTC address used for disbursement or reimbursement  
-- Any special notes, approvals, or context for reimbursements or one-off costs  
+Esta carpeta se puede usar para rastrear toda la actividad financiera relacionada con las operaciones de las reuniones. Cada entrada podría incluir:
 
-**Naming convention:**  
-`YYYY-MM_BitDevs XXX_Finance_Report`  
-*(e.g., 2025-04_BitDevs Nairobi_Finance_Report)*
+- Un reporte financiero usando una plantilla estandarizada *(ver [Anexo D: Formato de Reporte Financiero](08-annexes.md))*
+- Recibos y facturas escaneadas de cada gasto
+  - Estos pueden subirse en una carpeta separada y vincularse en el reporte
+- Direcciones BTC usadas para desembolsos o reembolsos (si aplica)
+- Notas especiales, aprobaciones o contexto para reembolsos o costos únicos
 
-## Submission Timeline
+**Convención de nombres sugerida:**
+`AAAA-MM_BitDevs XXX_Reporte_Financiero`
+*(ej., 2025-04_BitDevs Buenos Aires_Reporte_Financiero)*
 
-All meetup and finance documentation must be uploaded by the **10th of each month**, covering the previous month’s meetup.
+## Cronograma de Entrega (para ubicaciones patrocinadas)
 
-### Archiving and Access Protocol
+Para ubicaciones que operan bajo patrocinio formal, generalmente se espera que toda la documentación de reuniones y finanzas se entregue antes del **10 de cada mes**, cubriendo la reunión del mes anterior.
 
-Each organizing team is responsible for keeping its folder updated and accurate.
+Las ubicaciones independientes pueden establecer sus propios cronogramas según lo que funcione mejor para su equipo.
 
-- Access is restricted to location organizers and authorized Btrust staff  
-- Files should **never be deleted**  
-- Older files must be moved into a subfolder named:`Archive_Year`  
+## Protocolo de Archivo y Acceso
 
-## Compliance
+Cada equipo organizador es responsable de mantener sus carpetas actualizadas y precisas.
 
-Consistent and accurate documentation is required to maintain sponsorship status. Locations that fail to update their records regularly may experience delays in funding or suspension of support.
+- El acceso generalmente se restringe a los organizadores de la ubicación y, cuando aplique, al personal autorizado del sponsor
+- Se recomienda no eliminar archivos para mantener el historial completo
+- Los archivos más antiguos pueden moverse a una subcarpeta llamada: `Archivo_Año`
+
+## Buenas Prácticas
+
+Una documentación consistente y precisa es valiosa para todas las ubicaciones, ya que:
+
+- Facilita la transición cuando hay cambios en el equipo organizador
+- Permite compartir aprendizajes con otras ubicaciones
+- Demuestra profesionalismo y compromiso con la comunidad
+- Para ubicaciones patrocinadas, mantiene la confianza y el apoyo continuo de los sponsors
+- Crea un archivo histórico valioso para la comunidad Bitcoin
+
+Cada ubicación puede adaptar estas recomendaciones según sus necesidades específicas, recursos disponibles, y acuerdos con sponsors (si los hay).

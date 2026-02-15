@@ -1,135 +1,150 @@
-# The BitDevs Playbook
+# El Manual de BitDevs
 
-[![Version](https://img.shields.io/badge/version-0.1.0-blue?style=flat-square)](https://btrust.tech/bitdevs) 
-[![Last Updated](https://img.shields.io/badge/last%20updated-December%202025-lightgrey?style=flat-square)](https://btrust.tech/bitdevs)
-[![Contact](https://img.shields.io/badge/contact-builders@btrust.tech-deepgreen?style=flat-square)](mailto:builders@btrust.tech)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue?style=flat-square)](LICENSE.md)
+[![Versión](https://img.shields.io/badge/versi%C3%B3n-0.1.0--es-blue?style=flat-square)](https://btrust.tech/bitdevs)
+[![Última Actualización](https://img.shields.io/badge/%C3%BAltima%20actualizaci%C3%B3n-Febrero%202026-lightgrey?style=flat-square)](https://btrust.tech/bitdevs)
+[![Contacto](https://img.shields.io/badge/contacto-builders@btrust.tech-deepgreen?style=flat-square)](mailto:builders@btrust.tech)
+[![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-blue?style=flat-square)](LICENSE.md)
 
-> **Status:** Initial release (v0.1.0). Actively in use by Btrust-supported BitDevs locations.
-> 
-> **Note**: As BitDevs locations grow, improve, and share new lessons, this playbook will evolve to reflect these insights and strengthen the ecosystem.
+> **Estado:** Versión en español (v0.1.0-es) - Febrero 2026. Basada en la versión original activamente en uso por las ubicaciones de BitDevs apoyadas por Btrust en África.
+>
+> **Nota**: A medida que las ubicaciones de BitDevs crecen, mejoran y comparten nuevas lecciones, este manual evolucionará para reflejar estos conocimientos y fortalecer el ecosistema.
 
-The BitDevs Playbook by [Btrust](https://www.btrust.tech/) is a comprehensive guide for organizers, sponsors, and partners involved in growing Bitcoin-only technical communities across the Global South, starting with Africa. It provides a framework for starting, operating, and sustaining BitDevs locations with consistent quality, transparency, and impact. 
+El Manual de BitDevs por [Btrust](https://www.btrust.tech/) es una guía completa para organizadores, patrocinadores y colaboradores involucrados en el crecimiento de comunidades técnicas enfocadas exclusivamente en Bitcoin. Originalmente desarrollado para el Sur Global, comenzando con África, este manual proporciona un marco para iniciar, operar y sostener ubicaciones de BitDevs con calidad, transparencia e impacto consistentes.
 
-The playbook serves as:  
-- A manual for organizers setting up or managing BitDevs locations.  
-- A reference for sponsors and partners to understand processes, reporting, and accountability standards.  
-- A resource for participants and community members to align with the broader BitDevs movement.
+Este manual adaptado está dirigido a la comunidad hispanohablante en América Latina, España y el mundo, respetando la experiencia y metodología desarrollada por Btrust en África.
+
+El manual sirve como:
+- Un manual para organizadores que establecen o gestionan ubicaciones de BitDevs.
+- Una referencia para patrocinadores y colaboradores para comprender procesos, informes y estándares de responsabilidad.
+- Un recurso para participantes y miembros de la comunidad para alinearse con el movimiento BitDevs más amplio.
 
 
-## How to Use This Playbook
-The playbook mirrors the lifecycle of a BitDevs location: setup, operations, quality control, and closure (if necessary). Each section includes steps, templates, and references. While reading the full playbook is recommended to understand how BitDevs locations operate as a cohesive network, the guidance below helps you get started based on your role.
+## Cómo Usar Este Manual
+El manual refleja el ciclo de vida de una ubicación de BitDevs: configuración, operaciones, control de calidad y cierre (si es necesario). Cada sección incluye pasos, plantillas y referencias. Si bien se recomienda leer el manual completo para comprender cómo las ubicaciones de BitDevs operan como una red cohesiva, la siguiente guía te ayuda a comenzar según tu rol.
 
-- **New Organizers:** Start with Section 2: [“Starting a BitDevs Location”](02-starting-a-bitdevs-location/01-setting-up-a-location.md) to learn how to set up a new location from scratch. Follow with Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) for standards from day one. Then, read Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) for team and personal development guidance.
-- **Active Locations:** Focus first on Section 3: [“Running a BitDevs Location”](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md) for operational guidance. Revisit Section 4: [“Quality Control”](04-quality-control/01-core-standards.md) regularly. Refer to Section 6: [“Guide for Organizers”](06-guide-for-organizers/01-roles-and-responsibilities.md) to continue developing your team and skills.
-- **Sponsors and Supporters:** Refer to Section 7 ([“Guide for Sponsors”](07-guide-for-sponsors/01-how-sponsorship-works-with-btrust.md)) for funding models, accountability, and collaboration expectations.   
-- **Everyone:** Begin with Section 1: [“Introduction”](01-introduction/01-about-this-playbook.md) for foundational BitDevs principles, identity, and ethos.
-- **Annexes:** Contain templates, examples, and checklists referenced throughout the playbook for practical use.
+- **Nuevos Organizadores:** Comienza con la Sección 2: ["Iniciar una Ubicación de BitDevs"](02-starting-a-bitdevs-location/01-setting-up-a-location.md) para aprender cómo configurar una nueva ubicación desde cero. Continúa con la Sección 4: ["Control de Calidad"](04-quality-control/01-core-standards.md) para conocer los estándares desde el primer día. Luego, lee la Sección 6: ["Guía para Organizadores"](06-guide-for-organizers/01-roles-and-responsibilities.md) para orientación sobre desarrollo de equipo y personal.
+- **Ubicaciones Activas:** Enfócate primero en la Sección 3: ["Operar una Ubicación de BitDevs"](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md) para guía operacional. Revisa la Sección 4: ["Control de Calidad"](04-quality-control/01-core-standards.md) regularmente. Consulta la Sección 6: ["Guía para Organizadores"](06-guide-for-organizers/01-roles-and-responsibilities.md) para continuar desarrollando tu equipo y habilidades.
+- **Patrocinadores y Colaboradores:** Consulta la Sección 7 (["Guía para Patrocinadores"](07-guide-for-sponsors/01-how-sponsorship-works-with-btrust.md)) para modelos de financiamiento, responsabilidad y expectativas de colaboración.
+- **Todos:** Comienza con la Sección 1: ["Introducción"](01-introduction/01-about-this-playbook.md) para conocer los principios fundamentales, identidad y valores de BitDevs.
+- **Anexos:** Contienen plantillas, ejemplos y listas de verificación referenciadas a lo largo del manual para uso práctico.
 
-## Who This Playbook Is For
-> **Note**: Anyone planning, funding, supporting, or attending BitDevs meetups can benefit from this guide.
+## Para Quién Es Este Manual
+> **Nota**: Cualquier persona que planifique, financie, apoye o asista a reuniones de BitDevs puede beneficiarse de esta guía.
 
-- **BitDevs Organizers**: Lead or co-lead local locations.  
-- **Organizing Teams**: Support logistics, communication, and technical content.  
-- **Btrust Team Members**: Oversee sponsorship, quality assurance, and reporting.  
-- **Sponsors or Partners**: Support grassroots technical initiatives.  
-- **Participants and Developers**: Understand and contribute effectively to the community.  
+- **Organizadores de BitDevs**: Lideran o co-lideran ubicaciones locales.
+- **Equipos Organizadores**: Apoyan logística, comunicación y contenido técnico.
+- **Miembros del Equipo Btrust**: Supervisan patrocinio, aseguramiento de calidad e informes.
+- **Patrocinadores o Colaboradores**: Apoyan iniciativas técnicas de base.
+- **Participantes y Desarrolladores**: Comprenden y contribuyen efectivamente a la comunidad.
 
-## Table of Contents
+## Tabla de Contenidos
 
-### 01 - Introduction
-- [01-about-this-playbook](01-introduction/01-about-this-playbook.md)  
-- [02-about-bitdevs](01-introduction/02-about-bitdevs.md)  
-- [03-identity-and-core-principles](01-introduction/03-identity-and-core-principles.md)  
-- [04-bitdevs-in-africa-sponsored-by-btrust](01-introduction/04-bitdevs-in-africa-sponsored-by-btrust.md)  
-- [05-records-and-documentation](01-introduction/05-records-and-documentation.md)  
+### 01 - Introducción
+- [01-acerca-de-este-manual](01-introduction/01-about-this-playbook.md)
+- [02-acerca-de-bitdevs](01-introduction/02-about-bitdevs.md)
+- [03-identidad-y-principios-fundamentales](01-introduction/03-identity-and-core-principles.md)
+- [04-bitdevs-en-africa-patrocinado-por-btrust](01-introduction/04-bitdevs-in-africa-sponsored-by-btrust.md)
+- [05-registros-y-documentacion](01-introduction/05-records-and-documentation.md)
 
-### 02 - Starting a BitDevs Location
-- [01-setting-up-a-location](02-starting-a-bitdevs-location/01-setting-up-a-location.md)  
-- [02-finding-and-working-with-sponsors](02-starting-a-bitdevs-location/02-finding-and-working-with-sponsors.md)  
-- [03-getting-approved-for-sponsorship-(with-Btrust)](02-starting-a-bitdevs-location/03-getting-approved-for-sponsorship-with-Btrust.md)  
-- [04-building-your-organizing-team](02-starting-a-bitdevs-location/04-building-your-organizing-team.md)  
-- [05-planning-and-hosting-your-first-meetup](02-starting-a-bitdevs-location/05-planning-and-hosting-your-first-meetup.md)  
+### 02 - Iniciar una Ubicación de BitDevs
+- [01-configurar-una-ubicacion](02-starting-a-bitdevs-location/01-setting-up-a-location.md)
+- [02-encontrar-y-trabajar-con-patrocinadores](02-starting-a-bitdevs-location/02-finding-and-working-with-sponsors.md)
+- [03-obtener-aprobacion-de-patrocinio-(con-Btrust)](02-starting-a-bitdevs-location/03-getting-approved-for-sponsorship-with-Btrust.md)
+- [04-construir-tu-equipo-organizador](02-starting-a-bitdevs-location/04-building-your-organizing-team.md)
+- [05-planificar-y-organizar-tu-primera-reunion](02-starting-a-bitdevs-location/05-planning-and-hosting-your-first-meetup.md)
 
-### 03 - Running a BitDevs Location
-- [01-meetup-planning-and-coordination](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md)  
-- [02-choosing-topics-and-formats](03-running-a-bitdevs-location/02-topics-and-formats.md)  
-- [03-growing-and-engaging-the-community](03-running-a-bitdevs-location/03-community-growth-and-engagement.md)  
-- [04-reporting-and-communication](03-running-a-bitdevs-location/04-reporting-and-communication.md)  
+### 03 - Operar una Ubicación de BitDevs
+- [01-planificacion-y-coordinacion-de-reuniones](03-running-a-bitdevs-location/01-meetup-planning-and-coordination.md)
+- [02-elegir-temas-y-formatos](03-running-a-bitdevs-location/02-topics-and-formats.md)
+- [03-crecimiento-y-participacion-de-la-comunidad](03-running-a-bitdevs-location/03-community-growth-and-engagement.md)
+- [04-informes-y-comunicacion](03-running-a-bitdevs-location/04-reporting-and-communication.md)
 
-### 04 - Quality Control
-- [01-core-standards](04-quality-control/01-core-standards.md)  
-- [02-community-conduct-and-ethics](04-quality-control/02-community-conduct-and-ethics.md)  
-- [03-monitoring-and-evaluation](04-quality-control/03-monitoring-and-evaluation.md)  
-- [04-handling-challenges](04-quality-control/04-handling-challenges.md)  
+### 04 - Control de Calidad
+- [01-estandares-fundamentales](04-quality-control/01-core-standards.md)
+- [02-conducta-y-etica-comunitaria](04-quality-control/02-community-conduct-and-ethics.md)
+- [03-monitoreo-y-evaluacion](04-quality-control/03-monitoring-and-evaluation.md)
+- [04-manejo-de-desafios](04-quality-control/04-handling-challenges.md)
 
-### 05 - Closing a BitDevs Location
-- [01-when-and-how-to-pause-or-close-a-location](05-closing-a-bitdevs-location/01-when-and-how-to-pause-or-close.md)  
-- [02-final-reports-and-handover](05-closing-a-bitdevs-location/02-final-reports-and-handover.md)  
-- [03-reopening-or-reapplying](05-closing-a-bitdevs-location/03-reopening-or-reapplying.md)  
+### 05 - Cerrar una Ubicación de BitDevs
+- [01-cuando-y-como-pausar-o-cerrar-una-ubicacion](05-closing-a-bitdevs-location/01-when-and-how-to-pause-or-close.md)
+- [02-informes-finales-y-traspaso](05-closing-a-bitdevs-location/02-final-reports-and-handover.md)
+- [03-reapertura-o-nueva-solicitud](05-closing-a-bitdevs-location/03-reopening-or-reapplying.md)
 
-### 06 - Guide for Organizers
-- [01-roles-and-responsibilities](06-guide-for-organizers/01-roles-and-responsibilities.md)  
-- [02-best-practices-for-building-strong-teams](06-guide-for-organizers/02-best-practices-for-building-strong-teams.md)  
-- [03-recommended-tools-and-resources](06-guide-for-organizers/03-recommended-tools-and-resources.md)  
-- [04-personal-development-and-growth-for-organizers](06-guide-for-organizers/04-personal-development-and-growth.md)  
+### 06 - Guía para Organizadores
+- [01-roles-y-responsabilidades](06-guide-for-organizers/01-roles-and-responsibilities.md)
+- [02-mejores-practicas-para-construir-equipos-solidos](06-guide-for-organizers/02-best-practices-for-building-strong-teams.md)
+- [03-herramientas-y-recursos-recomendados](06-guide-for-organizers/03-recommended-tools-and-resources.md)
+- [04-desarrollo-personal-y-crecimiento-para-organizadores](06-guide-for-organizers/04-personal-development-and-growth.md)
 
-### 07 - Guide for Sponsors
-- [01-how-sponsorship-works-with-btrust](07-guide-for-sponsors/01-how-sponsorship-works-with-btrust.md)  
-- [02-what-sponsors-can-and-cant-support](07-guide-for-sponsors/02-what-sponsors-can-and-can't-support.md)  
-- [03-accountability-and-collaboration](07-guide-for-sponsors/03-accountability-and-collaboration.md)  
-- [04-partnering-for-long-term-impact](07-guide-for-sponsors/04-partnering-for-long-term-impact.md)  
+### 07 - Guía para Patrocinadores
+- [01-como-funciona-el-patrocinio-con-btrust](07-guide-for-sponsors/01-how-sponsorship-works-with-btrust.md)
+- [02-que-pueden-y-que-no-pueden-apoyar-los-patrocinadores](07-guide-for-sponsors/02-what-sponsors-can-and-can't-support.md)
+- [03-responsabilidad-y-colaboracion](07-guide-for-sponsors/03-accountability-and-collaboration.md)
+- [04-colaboracion-para-impacto-a-largo-plazo](07-guide-for-sponsors/04-partnering-for-long-term-impact.md)
 
-### 08 - Annexes
-- [Annex A: BitDevs Guide](08-annexes.md)  
-- [Annex B: BitDevs Map Across Africa](08-annexes.md)  
-- [Annex C: Event Report Format](08-annexes.md)  
-- [Annex D: Finance Report Format](08-annexes.md)
-- [Annex E: Sponsorship Proposal Template](08-annexes.md)  
-- [Annex F: Monthly Organizer Check-in](08-annexes.md)  
-- [Annex G: Budget Request Template](08-annexes.md)  
-- [Annex H: Expense Protocol](08-annexes.md)  
-- [Annex I: Starting a BitDevs Checklist](08-annexes.md)  
-- [Annex J: Quality Control Templates](08-annexes.md) 
-- [Annex K: Location Closure Checklist](08-annexes.md)  
+### 08 - Anexos
+- [Anexo A: Guía de BitDevs](08-annexes.md)
+- [Anexo B: Mapa de BitDevs en África](08-annexes.md)
+- [Anexo C: Formato de Informe de Eventos](08-annexes.md)
+- [Anexo D: Formato de Informe Financiero](08-annexes.md)
+- [Anexo E: Plantilla de Propuesta de Patrocinio](08-annexes.md)
+- [Anexo F: Registro Mensual de Organizadores](08-annexes.md)
+- [Anexo G: Plantilla de Solicitud de Presupuesto](08-annexes.md)
+- [Anexo H: Protocolo de Gastos](08-annexes.md)
+- [Anexo I: Lista de Verificación para Iniciar BitDevs](08-annexes.md)
+- [Anexo J: Plantillas de Control de Calidad](08-annexes.md)
+- [Anexo K: Lista de Verificación de Cierre de Ubicación](08-annexes.md)
 
-## Contributors and Reviewers
+## Contribuidores y Revisores
 
-| Name                | Role                  | Affiliation                           | Github                                            | Email                  |
-|--------------------|------------------------|---------------------------------------|---------------------------------------------------|------------------------|
-| Stephanie Titcombe  | Lead Author & Maintainer | Program & Operations Lead, Btrust | [@StephTitcombe](https://github.com/StephTitcombe) | [stephanie@btrust.tech](mailto:stephanie@btrust.tech) |
+| Nombre              | Rol                   | Afiliación                            | Github                                            | Email                  |
+|--------------------|-----------------------|---------------------------------------|---------------------------------------------------|------------------------|
+| Stephanie Titcombe | Autora Principal y Mantenedora | Líder de Programa y Operaciones, Btrust | [@StephTitcombe](https://github.com/StephTitcombe) | [stephanie@btrust.tech](mailto:stephanie@btrust.tech) |
 
-| Name                | Role                  | Affiliation                           | Github 
-|--------------------|------------------------|---------------------------------------|---------------------------------------------------|
-| Abubakar Nur Khalil | Reviewer              | CEO, Btrust                           | [@Zero-1729](https://github.com/Zero-1729)
-| Simon Njeru         | Reviewer              | Lead Organizer, BitDevs Nairobi       | [@xyephy](https://github.com/xyephy)
-| Tobechi Chukwuleta  | Reviewer              | Lead Organizer, BitDevs Lagos         | [@TChukwuleta](https://github.com/TChukwuleta)
+| Nombre              | Rol                   | Afiliación                            | Github
+|--------------------|-----------------------|---------------------------------------|---------------------------------------------------|
+| Abubakar Nur Khalil | Revisor              | CEO, Btrust                           | [@Zero-1729](https://github.com/Zero-1729)
+| Simon Njeru         | Revisor              | Organizador Principal, BitDevs Nairobi| [@xyephy](https://github.com/xyephy)
+| Tobechi Chukwuleta  | Revisor              | Organizador Principal, BitDevs Lagos  | [@TChukwuleta](https://github.com/TChukwuleta)
 
-## Contributing
+### Versión en Español
 
-Suggestions, corrections, and improvements are welcome.
+| Nombre              | Rol                   | Afiliación                            | Github
+|--------------------|-----------------------|---------------------------------------|---------------------------------------------------|
+| Andrea Diaz Correia | Traductora           | Organizadora Principal, BitDevs Buenos Aires | [@AndreaDiazCorreia](https://github.com/AndreaDiazCorreia)
 
-Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. Contributions can be made by opening a GitHub issue or by submitting a pull request. All proposals are reviewed collaboratively with the Playbook maintainer and, where relevant, organizers and contributors, before being included in future versions. 
+**Patrocinadores de la versión en español:**
+- [Librería de Satoshi](https://libreriasatoshi.com/)
+- [b4os](https://b4os.dev/)
 
-## Document Control
+Sponsors de BitDevs en Latinoamérica, apoyando el crecimiento de comunidades técnicas de Bitcoin en la región hispanohablante.
 
-### Version History
+## Contribuir
 
-| Version | Date         | Description                                                   | Author / Editor       |
-|---------|--------------|---------------------------------------------------------------|---------------------|
-| 0.1.0   | December 2025 | Initial publication; full draft of BitDevs Playbook           | Stephanie Titcombe  |
+Las sugerencias, correcciones y mejoras son bienvenidas.
 
-### Update Cycle
-- Minor updates: Every 6 months  
-- Major review: Every 12 months  
-- Mid-cycle revisions if critical updates occur  
+Por favor revisa el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para guías detalladas. Las contribuciones pueden hacerse abriendo un issue en GitHub o enviando un pull request. Todas las propuestas son revisadas colaborativamente con el mantenedor del Manual y, cuando sea relevante, con organizadores y contribuidores, antes de ser incluidas en futuras versiones.
 
-### Distribution
-This Playbook is maintained digitally for:  
-- BitDevs organizers and volunteers  
-- Sponsors and partners  
-- Educational and technical collaborators in the Bitcoin ecosystem  
+## Control del Documento
 
-## License
+### Historial de Versiones
 
-This Playbook is © 2025 [Btrust](https://www.btrust.tech/) and licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md) license.
+| Versión | Fecha         | Descripción                                                   | Autor / Editor       |
+|---------|---------------|---------------------------------------------------------------|---------------------|
+| 0.1.0   | Diciembre 2025| Publicación inicial; borrador completo del Manual de BitDevs  | Stephanie Titcombe  |
+| 0.1.0-es| Febrero 2026  | Traducción al español para comunidades hispanohablantes      | Andrea Diaz Correia |
+
+### Ciclo de Actualización
+- Actualizaciones menores: Cada 6 meses
+- Revisión mayor: Cada 12 meses
+- Revisiones a mitad de ciclo si ocurren actualizaciones críticas
+
+### Distribución
+Este Manual se mantiene digitalmente para:
+- Organizadores y voluntarios de BitDevs
+- Patrocinadores y colaboradores
+- Colaboradores educativos y técnicos en el ecosistema Bitcoin
+
+## Licencia
+
+Este Manual es © 2025 [Btrust](https://www.btrust.tech/) y está licenciado bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE.md).

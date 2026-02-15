@@ -43,7 +43,7 @@ El manual refleja el ciclo de vida de una ubicación de BitDevs: configuración,
 - [01-acerca-de-este-manual](01-introduction/01-about-this-playbook.md)
 - [02-acerca-de-bitdevs](01-introduction/02-about-bitdevs.md)
 - [03-identidad-y-principios-fundamentales](01-introduction/03-identity-and-core-principles.md)
-- [04-bitdevs-en-africa-patrocinado-por-btrust](01-introduction/04-bitdevs-in-africa-sponsored-by-btrust.md)
+- [04-bitdevs-en-espanol](01-introduction/04-bitdevs-en-espanol.md)
 - [05-registros-y-documentacion](01-introduction/05-records-and-documentation.md)
 
 ### 02 - Iniciar una Ubicación de BitDevs

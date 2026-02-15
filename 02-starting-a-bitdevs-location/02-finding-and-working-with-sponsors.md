@@ -1,40 +1,40 @@
-# Finding and Working with Sponsors
+# Encontrar y Trabajar con Patrocinadores
 
-Running a sustainable BitDevs location often requires financial or logistical support. Sponsors can help cover essential costs such as venue, refreshments, and materials, allowing organizers to focus on high-quality content and community building.
+Operar una ubicación sostenible de BitDevs a menudo requiere apoyo financiero o logístico. Los patrocinadores pueden ayudar a cubrir costos esenciales como el lugar, refrigerios y materiales, permitiendo a los organizadores enfocarse en contenido de alta calidad y construcción de comunidad.
 
-## Types of Support You Can Seek
+## Tipos de Apoyo que Puedes Buscar
 
-BitDevs locations may receive support through a variety of channels, including:
+Las ubicaciones de BitDevs pueden recibir apoyo a través de varios canales, incluyendo:
 
-- **Corporate Sponsorship**  
-  Support from Bitcoin companies, exchanges, or developer-focused startups.
+- **Patrocinio Corporativo**
+  Apoyo de compañías Bitcoin, exchanges o startups enfocadas en desarrolladores.
 
-- **Community Grants**  
-  Funding from nonprofits or open-source organizations that support education and technical growth.
+- **Becas Comunitarias**
+  Financiamiento de organizaciones sin fines de lucro o de código abierto que apoyan la educación y el crecimiento técnico.
 
-- **In-kind Support**  
-  Non-monetary contributions such as venue space, media coverage, refreshments, or volunteer time.
+- **Apoyo en Especie**
+  Contribuciones no monetarias como espacio para eventos, cobertura mediática, refrigerios o tiempo de voluntarios.
 
-- **Individual Contributions**  
-  Support from local Bitcoiners or community patrons who value technical education and open collaboration.
+- **Contribuciones Individuales**
+  Apoyo de bitcoiners locales o mecenas de la comunidad que valoran la educación técnica y la colaboración abierta.
 
-## How to Find a Sponsor
+## Cómo Encontrar un Patrocinador
 
-When seeking sponsorship, organizers should take the following steps:
+Al buscar patrocinio, los organizadores deberían seguir los siguientes pasos:
 
-1. Identify organizations that align with Bitcoin-only values and support open-source development.
-2. Prepare a short proposal describing your location’s mission, structure, and projected expenses.
-3. Include evidence of community demand, such as an active community group, past events, or interest sign-ups.
-4. Outline the requested sponsorship amount and clearly explain how funds will be used and how accountability will be maintained.
-5. Offer appropriate visibility in return, such as logo placement, sponsor acknowledgements, or brief introductions during BitDevs events.
+1. Identificar organizaciones que se alineen con valores de solo Bitcoin y apoyen el desarrollo de código abierto.
+2. Preparar una propuesta breve describiendo la misión, estructura y gastos proyectados de tu ubicación.
+3. Incluir evidencia de la demanda comunitaria, como un grupo comunitario activo, eventos pasados o registros de interés.
+4. Detallar el monto de patrocinio solicitado y explicar claramente cómo se usarán los fondos y cómo se mantendrá la responsabilidad.
+5. Ofrecer visibilidad apropiada a cambio, como colocación de logo, reconocimientos de patrocinadores o breves presentaciones durante eventos BitDevs.
 
-## Sponsor Guidelines
+## Guías para Patrocinadores
 
-To protect the integrity and independence of BitDevs, all sponsorships must follow these guidelines:
+Para proteger la integridad e independencia de BitDevs, todos los patrocinios deben seguir estas guías:
 
-- Remain Bitcoin-only and independent; avoid sponsors that require brand control or agenda influence.
-- Maintain transparent expense tracking and proper documentation.
-- Report outcomes after each meetup, even when the sponsor does not explicitly require reporting.
-- Diversify funding sources where possible to avoid overreliance on a single entity.
+- Mantener el enfoque solo Bitcoin e independencia; evitar patrocinadores que requieran control de marca o influencia en la agenda.
+- Mantener seguimiento transparente de gastos y documentación apropiada.
+- Reportar resultados después de cada reunión, incluso cuando el patrocinador no requiera explícitamente reportes.
+- Diversificar fuentes de financiamiento donde sea posible para evitar dependencia excesiva de una sola entidad.
 
-*(See [Annex E: Sponsorship Proposal Template.](08-annexes.md))*
+*(Ver [Anexo E: Plantilla de Propuesta de Patrocinio.](08-annexes.md))*

@@ -1,33 +1,33 @@
-# Starting a BitDevs Location
+# Iniciar una Ubicación de BitDevs
 
-Starting a BitDevs location is about building a sustainable, open community that values learning, collaboration, and local participation. This section outlines the key steps required to establish a new location, from assessing community interest and forming your organizing team to hosting your first event and securing long-term support.
+Iniciar una ubicación de BitDevs se trata de construir una comunidad abierta y sostenible que valore el aprendizaje, la colaboración y la participación local. Esta sección describe los pasos clave necesarios para establecer una nueva ubicación, desde evaluar el interés de la comunidad y formar tu equipo organizador hasta organizar tu primer evento y asegurar apoyo a largo plazo.
 
-# Setting Up a Location
+# Configurar una Ubicación
 
-Launching a BitDevs location begins with understanding why it exists: to create a neutral, Bitcoin-only space where developers and builders can learn, debate, and collaborate on Bitcoin’s technical progress. Before you begin, confirm that your city has a **genuine, active, or emerging developer interest** in Bitcoin. This can be assessed through informal polls, community events, developer meetups, or conversations with local technical groups.
+Lanzar una ubicación de BitDevs comienza con entender por qué existe: para crear un espacio neutral, enfocado exclusivamente en Bitcoin, donde desarrolladores y constructores pueden aprender, debatir y colaborar en el progreso técnico de Bitcoin. Antes de comenzar, confirma que tu ciudad tiene un **interés genuino, activo o emergente de desarrolladores** en Bitcoin. Esto puede evaluarse a través de encuestas informales, eventos comunitarios, reuniones de desarrolladores o conversaciones con grupos técnicos locales.
 
-Once local interest is confirmed, take the following foundational steps:
+Una vez confirmado el interés local, sigue estos pasos fundamentales:
 
-## 1. Confirm Local Demand
+## 1. Confirmar la Demanda Local
 
-Gather evidence of developer interest in Bitcoin-focused learning. This ensures that the community you are building has a clear audience and a meaningful purpose.
+Reúne evidencia del interés de desarrolladores en aprendizaje enfocado en Bitcoin. Esto asegura que la comunidad que estás construyendo tenga una audiencia clara y un propósito significativo.
 
-## 2. Form a Core Team
+## 2. Formar un Equipo Base
 
-Assemble at least two or three committed organizers with a strong Bitcoin technical background (for example, alumni of [Btrust Builders](https://www.btrust.tech/builders) pathways) who can plan, communicate, and run monthly meetups effectively. If you are just starting out and do not yet know others with technical experience, do not let this stop you. Start with what you have and seek support from the broader BitDevs community. Shared ownership is essential for consistency and long-term continuity.
+Reúne al menos dos o tres organizadores comprometidos con una sólida formación técnica en Bitcoin (por ejemplo, graduados de programas como [Btrust Builders](https://www.btrust.tech/builders) o [b4os](https://b4os.dev)) que puedan planificar, comunicar y ejecutar reuniones mensuales de manera efectiva. Si recién estás comenzando y aún no conoces a otras personas con experiencia técnica, no dejes que esto te detenga. Comienza con lo que tienes y busca apoyo de la comunidad BitDevs más amplia. La propiedad compartida es esencial para la consistencia y continuidad a largo plazo.
 
-## 3. Define Your Location Identity
+## 3. Definir la Identidad de tu Ubicación
 
-Choose your city name (e.g., *BitDevs Nairobi*), align on your shared goals, and draft a short paragraph that summarizes your purpose and local focus.
+Elige el nombre de tu ciudad (ej., *BitDevs Buenos Aires*), alinéate en tus objetivos compartidos y redacta un breve párrafo que resuma tu propósito y enfoque local.
 
-## 4. Establish Operational Tools
+## 4. Establecer Herramientas Operacionales
 
-Set up basic systems required for coordination and record-keeping, including:
+Configura los sistemas básicos necesarios para la coordinación y el mantenimiento de registros, incluyendo:
 
-- An official email address  
-- A shared folder for documentation  
-- A communication platform such as WhatsApp, Telegram, or Signal  
+- Una dirección de correo electrónico oficial
+- Una carpeta compartida para documentación
+- Una plataforma de comunicación como WhatsApp, Telegram o Signal
 
-## 5. Plan the First Quarter
+## 5. Planificar el Primer Trimestre
 
-Outline a three-month plan that includes expected discussion topics, tentative meetup dates, and your outreach approach. This plan helps guide your launch and demonstrates commitment to potential sponsors, partners, and the wider BitDevs network.
+Diseña un plan de tres meses que incluya temas de discusión esperados, fechas tentativas de reuniones y tu enfoque de divulgación. Este plan ayuda a guiar tu lanzamiento y demuestra compromiso a posibles patrocinadores, colaboradores y la red BitDevs más amplia.

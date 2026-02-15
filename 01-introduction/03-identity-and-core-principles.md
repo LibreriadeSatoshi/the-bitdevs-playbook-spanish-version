@@ -1,20 +1,20 @@
-# Identity and Core Principles 
+# Identidad y Principios Fundamentales
 
-While each BitDevs community reflects its local culture and context, all locations share the same foundation: a set of principles that define what it means to be BitDevs.
+Si bien cada comunidad BitDevs refleja su cultura y contexto local, todas las ubicaciones comparten la misma base: un conjunto de principios que definen lo que significa ser BitDevs.
 
-1. **Bitcoin-Only**  
-   BitDevs exists to explore Bitcoin, and only Bitcoin. All discussions, presentations, and projects must be directly related to Bitcoin’s technology, research, or development. This focus keeps conversations meaningful, technical, and free from distractions like unrelated projects or speculative narratives.
+1. **Solo Bitcoin**
+   BitDevs existe para explorar Bitcoin, y solo Bitcoin. Todas las discusiones, presentaciones y proyectos deben estar directamente relacionados con la tecnología, investigación o desarrollo de Bitcoin. Este enfoque mantiene las conversaciones significativas, técnicas y libres de distracciones como proyectos no relacionados o narrativas especulativas.
 
-2. **Technical Focus**  
-   BitDevs meetups are designed for people who want to understand how Bitcoin actually works. Topics typically cover protocol development, research, open-source projects, and developments in Bitcoin-adjacent technologies like Lightning or Miniscript. Anyone may attend, but the emphasis remains on advancing collective technical understanding.
+2. **Enfoque Técnico**
+   Las reuniones de BitDevs están diseñadas para personas que quieren entender cómo funciona realmente Bitcoin. Los temas típicamente cubren desarrollo de protocolos, investigación, proyectos de código abierto y desarrollos en tecnologías relacionadas con Bitcoin como Lightning o Miniscript. Cualquiera puede asistir, pero el énfasis permanece en avanzar el entendimiento técnico colectivo.
 
-3. **Socratic Format**  
-   BitDevs uses a [Socratic Seminar](https://en.wikipedia.org/wiki/Socratic_method#Socratic_seminar) discussion format, which is a guided, participatory conversation rather than a lecture. Moderators curate a list of relevant topics or recent updates, and attendees explore them together through questions and open discussion.
+3. **Formato Socrático**
+   BitDevs utiliza un formato de discusión de [Seminario Socrático](https://en.wikipedia.org/wiki/Socratic_method#Socratic_seminar), que es una conversación guiada y participativa en lugar de una conferencia. Los moderadores seleccionan una lista de temas relevantes o actualizaciones recientes, y los asistentes los exploran juntos a través de preguntas y discusión abierta.
 
-4. **Privacy-Respecting**  
-   Privacy is a core part of BitDevs culture. By default, there’s no photography or recording unless everyone agrees. [Chatham House Rules apply](https://en.wikipedia.org/wiki/Chatham_House_Rule): what’s shared can be discussed publicly, but not who said it. This creates a safe space for open, honest conversation.
+4. **Respetuoso de la Privacidad**
+   La privacidad es una parte fundamental de la cultura BitDevs. Por defecto, no hay fotografía ni grabación a menos que todos estén de acuerdo. [Se aplican las Reglas de Chatham House](https://en.wikipedia.org/wiki/Chatham_House_Rule): lo que se comparte puede discutirse públicamente, pero no quién lo dijo. Esto crea un espacio seguro para conversaciones abiertas y honestas.
 
-5. **Non-Commercial**  
-   BitDevs is a neutral and non-commercial space. Meetups must be free to attend, and no one should use them to promote products or services. Sponsorships, where needed, cover only essential logistics like venue or refreshments.
+5. **No Comercial**
+   BitDevs es un espacio neutral y no comercial. Las reuniones deben ser gratuitas para asistir, y nadie debe usarlas para promover productos o servicios. Los patrocinios, cuando son necesarios, cubren solo la logística esencial como el lugar o refrigerios.
 
-*(See: [Annex A: BitDevs Guide.](08-annexes.md))*
+*(Ver: [Anexo A: Guía de BitDevs.](08-annexes.md))*

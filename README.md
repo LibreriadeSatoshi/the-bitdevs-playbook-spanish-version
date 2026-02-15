@@ -49,7 +49,7 @@ El manual refleja el ciclo de vida de una ubicación de BitDevs: configuración,
 ### 02 - Iniciar una Ubicación de BitDevs
 - [01-configurar-una-ubicacion](02-starting-a-bitdevs-location/01-setting-up-a-location.md)
 - [02-encontrar-y-trabajar-con-patrocinadores](02-starting-a-bitdevs-location/02-finding-and-working-with-sponsors.md)
-- [03-obtener-aprobacion-de-patrocinio-(con-Btrust)](02-starting-a-bitdevs-location/03-getting-approved-for-sponsorship-with-Btrust.md)
+- [03-obtener-aprobacion-de-patrocinio](02-starting-a-bitdevs-location/03-obtener-aprobacion-de-patrocinio.md)
 - [04-construir-tu-equipo-organizador](02-starting-a-bitdevs-location/04-building-your-organizing-team.md)
 - [05-planificar-y-organizar-tu-primera-reunion](02-starting-a-bitdevs-location/05-planning-and-hosting-your-first-meetup.md)
 

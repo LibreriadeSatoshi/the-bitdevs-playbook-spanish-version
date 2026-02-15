@@ -1,88 +1,100 @@
-# Planning and Hosting Your First Meetup
+# Planificar y Organizar tu Primera Reunión
 
-Your first meetup introduces your community to what BitDevs is. The goal is to keep it simple, structured, and participatory.
+Tu primera reunión presenta a tu comunidad lo que es BitDevs. El objetivo es mantenerla simple, estructurada y participativa.
 
-## Steps to Prepare
+## Pasos para Preparar
 
-### 1. Choose a Venue
-- Select a consistent, neutral, and accessible venue, such as a local tech hub or co-working space.
-- Ensure basic facilities: projector, reliable power, seating, restrooms, drinking water, ventilation, and safety.
+### 1. Elegir un Lugar
 
-### 2. Promote Responsibly
-- Announce your meetup on relevant channels (website (example: https://bitdevs[acronym].org/), [Nostr](https://nostr.com/), X/Twitter), emphasizing the technical, Bitcoin-only nature.
-- Invite people to register to attend. Also see more actions under [Media and Communications](#media-and-communications).
-- For Btrust-sponsored locations, share  the confirmed meetup details in the **BitDevs Organizers in Africa Discord** channel for cross-promotion by Btrust through our official pages. 
-- Include social card, date, time, and agenda/topics for visibility.
+- Selecciona un lugar consistente, neutral y accesible, como un centro tecnológico local o espacio de coworking.
+- Asegura instalaciones básicas: proyector, energía confiable, asientos, baños, agua potable, ventilación y seguridad.
 
-### 3. Plan the Budget
-- Prepare a simple cost breakdown for venue, refreshments, and logistics.  
-- Use estimated attendance numbers to guide your planning.
-- Submit budget proposals early if applying for sponsorship.  
-- Btrust-sponsored locations submit through the standard monthly expense process before the event.
+### 2. Promocionar Responsablemente
 
-*(See: [Annex G: Budget Request Template](08-annexes.md))*  
-*(See: [Annex H: Expense Protocol](08-annexes.md))*
+- Anuncia tu reunión en canales relevantes (sitio web (ejemplo: https://bitdevs[siglas].org/), [Nostr](https://nostr.com/), X/Twitter), enfatizando la naturaleza técnica y exclusivamente Bitcoin.
+- Invita a las personas a registrarse para asistir. También consulta más acciones en [Medios y Comunicaciones](#medios-y-comunicaciones).
+- Para ubicaciones patrocinadas, comparte los detalles confirmados de la reunión en los canales de comunicación acordados con tu patrocinador para promoción cruzada.
+- Incluye tarjeta social, fecha, hora y agenda/temas para visibilidad.
 
-### 4. Curate Topics
-- Select relevant Bitcoin developments or research topics.
-- Draw inspiration from global BitDevs locations or official mailing lists.
-- Avoid beginner-level talks that can drift into non-Bitcoin content.
-- Focus on meaningful learning and discussion.
+### 3. Planificar el Presupuesto
 
-### 5. Run the Meetup
-- Begin with an introduction to BitDevs and its principles.
-- Follow the [Socratic seminar format](https://bitdevs.org/running-a-great-socratic-seminar/): short summaries, open questions, collective exploration.
-- Apply [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule) to encourage honest dialogue and protect privacy.
-- Keep time strictly. Discussions should flow but remain within the planned duration.
+- Prepara un desglose simple de costos para lugar, refrigerios y logística.
+- Usa números estimados de asistencia para guiar tu planificación.
+- Envía propuestas de presupuesto con anticipación si estás solicitando patrocinio.
+- Las ubicaciones patrocinadas deben seguir el proceso de gastos acordado con su patrocinador antes del evento.
 
-### 6. Engage Participants
-- Encourage first-time attendees to ask questions.
-- End with informal networking and light refreshments to strengthen community bonds.
-- Invite participants to join community channels for updates on future meetups.
+*(Ver: [Anexo G: Plantilla de Solicitud de Presupuesto](08-annexes.md))*
+*(Ver: [Anexo H: Protocolo de Gastos](08-annexes.md))*
 
-### 7. Document the Event
-- Record attendance, discussion highlights, and lessons learned.
-- Btrust-sponsored locations complete the **Meetup Report** and **Finance Report** using the standard templates.
-- Upload documentation by the **10th of the following month** to your location folder.
+### 4. Seleccionar Temas
 
-### 8. Reflect and Iterate
-- Choose topics suitable for your audience’s level to maximize engagement.
-- Review feedback after each meetup and plan improvements for the next session.
-- Support participants in their ongoing learning journey. Act as an accountability partner, even if they don’t make it to the next session.
+- Selecciona desarrollos o temas de investigación relevantes de Bitcoin.
+- Inspírate en ubicaciones globales de BitDevs o listas de correo oficiales.
+- Evita charlas de nivel principiante que puedan desviarse hacia contenido no relacionado con Bitcoin.
+- Enfócate en aprendizaje significativo y discusión.
 
-## Media and Communications
+### 5. Ejecutar la Reunión
 
-A strong online presence helps promote meetups, share resources, and keep the community engaged. Each BitDevs location is encouraged to set up the following:
+- Comienza con una introducción a BitDevs y sus principios.
+- Sigue el [formato de seminario socrático](https://bitdevs.org/running-a-great-socratic-seminar/): resúmenes breves, preguntas abiertas, exploración colectiva.
+- Aplica las [Reglas de Chatham House](https://en.wikipedia.org/wiki/Chatham_House_Rule) para fomentar el diálogo honesto y proteger la privacidad.
+- Mantén el tiempo estrictamente. Las discusiones deben fluir pero permanecer dentro de la duración planificada.
 
-### Website
-- Create a website following the standard format: `https://bitdevs[acronym].org/`
-- Example reference: [BitDevs Nairobi](https://www.bitdevsnbo.org/) website  
-- Setup instructions and theme guide are [available separately](https://github.com/BitDevsNBO/bitdevsnbo.org/blob/master/README.md).
+### 6. Involucrar a los Participantes
 
-### Social Media
-- Set up a dedicated **Nostr** or **X (formerly Twitter)** page to share updates and resources.
+- Anima a los asistentes por primera vez a hacer preguntas.
+- Termina con networking informal y refrigerios ligeros para fortalecer los lazos comunitarios.
+- Invita a los participantes a unirse a los canales comunitarios para actualizaciones sobre futuras reuniones.
 
-### Social Card
-- Prepare a monthly social card with BitDevs name, date, time, and venue.
-- For Btrust-sponsored locations, add the footnote **“Sponsored by Btrust”**. See [this flyer](https://drive.google.com/file/d/18ejzNXIYDNag4B_4-1nIK6MUw_a8MFeH/view?usp=drive_link) for reference. 
+### 7. Documentar el Evento
 
-### Event Registration
-- Provide a registration link for each meetup. Recommended platforms:
-  - [Clooza](https://clooza.com/) (setup instructions available [HERE](https://www.youtube.com/playlist?list=PLdTamqZ10iGAYE4aFUCx-XP6ilsr34QUu))  
+- Registra la asistencia, aspectos destacados de las discusiones y lecciones aprendidas.
+- Las ubicaciones patrocinadas completan los **Reportes de Reunión** y **Reportes Financieros** usando las plantillas acordadas con su patrocinador.
+- Las ubicaciones independientes pueden mantener su propia documentación según sus necesidades.
+
+### 8. Reflexionar e Iterar
+
+- Elige temas adecuados para el nivel de tu audiencia para maximizar el compromiso.
+- Revisa la retroalimentación después de cada reunión y planifica mejoras para la próxima sesión.
+- Apoya a los participantes en su viaje de aprendizaje continuo. Actúa como un socio de responsabilidad, incluso si no llegan a la próxima sesión.
+
+## Medios y Comunicaciones
+
+Una presencia online sólida ayuda a promocionar las reuniones, compartir recursos y mantener a la comunidad comprometida. Se recomienda que cada ubicación de BitDevs configure lo siguiente:
+
+### Sitio Web
+
+- Crea un sitio web siguiendo el formato estándar: `https://bitdevs[siglas].org/`
+- Ejemplo de referencia: [BitDevs Buenos Aires](https://bitdevsba.org/) website
+- Las instrucciones de configuración y guía de tema están [disponibles por separado](https://github.com/BitDevsNBO/bitdevsnbo.org/blob/master/README.md).
+
+### Redes Sociales
+
+- Configura una página dedicada de **Nostr** o **X (anteriormente Twitter)** para compartir actualizaciones y recursos.
+
+### Tarjeta Social
+
+- Prepara una tarjeta social mensual con el nombre de BitDevs, fecha, hora y lugar.
+- Para ubicaciones patrocinadas, agrega la nota **"Patrocinado por [Nombre del Patrocinador]"** según lo acordado con tu patrocinador.
+
+### Registro de Eventos
+
+- Proporciona un enlace de registro para cada reunión. Plataformas recomendadas:
+  - [Clooza](https://clooza.com/) (instrucciones de configuración disponibles [AQUÍ](https://www.youtube.com/playlist?list=PLdTamqZ10iGAYE4aFUCx-XP6ilsr34QUu))
   - [Evento](https://evento.so/)
   - [Luma](https://lu.ma/)
 
-### After Your First Meetup
+### Después de tu Primera Reunión
 
-Once your first event is completed and reported:
+Una vez que tu primer evento esté completado y documentado:
 
-- Publish a short recap on your BitDevs website to maintain visibility.
-- Begin planning the next meetup immediately to sustain momentum.
-- Continue monthly sessions using attendee feedback and insights.
-- Strengthen ties with sponsors through regular updates and visible impact.
-- Track documentation, finances, and progress.
-- Build relationships with other BitDevs locations to exchange ideas and resources.
+- Publica un breve resumen en tu sitio web de BitDevs para mantener visibilidad.
+- Comienza a planificar la próxima reunión inmediatamente para mantener el impulso.
+- Continúa con sesiones mensuales usando la retroalimentación e ideas de los asistentes.
+- Fortalece los lazos con patrocinadores (si aplica) a través de actualizaciones regulares e impacto visible.
+- Rastrea documentación, finanzas y progreso.
+- Construye relaciones con otras ubicaciones de BitDevs para intercambiar ideas y recursos.
 
-By completing these steps, your location transitions from **setup** to **active status**, ready to operate under the guidelines in **Section 3: [Running a BitDevs Location](03-running-a-bitdevs-location.md)**.
+Al completar estos pasos, tu ubicación transiciona de **configuración** a **estado activo**, lista para operar bajo las guías en **Sección 3: [Operar una Ubicación de BitDevs](03-running-a-bitdevs-location.md)**.
 
-*(See: [Annex I: Starting a BitDevs Checklist](08-annexes))*
+*(Ver: [Anexo I: Lista de Verificación para Iniciar BitDevs](08-annexes))*

@@ -1,30 +1,30 @@
-# Reporting and Communication
+# Reportes y Comunicación
 
-Reporting is a key accountability and learning tool that helps locations grow sustainably and enables sponsors to provide continued support.
+Los reportes son una herramienta clave de responsabilidad y aprendizaje que ayuda a las ubicaciones a crecer de manera sostenible y permite a los patrocinadores proporcionar apoyo continuo.
 
-## Documentation Standards
+## Estándares de Documentación
 
-Each location must maintain updated folders for:
+Se recomienda que cada ubicación mantenga carpetas actualizadas para:
 
-- **Meetup Reports**: Summaries of each event, including date, agenda, key takeaways, and attendance.
-- **Finance Reports**: Details of expenses, receipts, and remaining balances.
-- **Media or Attachments**: Photos (if approved), slides, and any supplementary materials.
+- **Reportes de Reuniones**: Resúmenes de cada evento, incluyendo fecha, agenda, puntos clave y asistencia.
+- **Reportes Financieros**: Detalles de gastos, recibos y saldos restantes (si aplica).
+- **Medios o Archivos Adjuntos**: Fotos (si fueron aprobadas), diapositivas y cualquier material complementario.
 
-Reports should be submitted **monthly**, even if a meetup was postponed, with explanations where necessary.
+Para ubicaciones patrocinadas, los reportes generalmente deben enviarse **mensualmente**, incluso si una reunión fue pospuesta, con explicaciones cuando sea necesario. Las ubicaciones independientes pueden mantener su propia cadencia de documentación según sus necesidades.
 
-## Internal Communication
+## Comunicación Interna
 
-- Keep your organizing team aligned through shared documents, group chats, and periodic reviews.
-- Communicate upcoming plans and challenges early to avoid gaps in operations.
-- For Btrust-sponsored locations:
-  - Submit both **Meetup** and **Finance Reports** to your designated folder by the 10th of the following month.
-  - Attend the scheduled monthly organizer check-in.  
-  - Use the **BitDevs Organizers in Africa Discord** channel for quick questions, collaboration, or peer learning.
+- Mantén a tu equipo organizador alineado a través de documentos compartidos, chats grupales y revisiones periódicas.
+- Comunica planes y desafíos próximos tempranamente para evitar brechas en las operaciones.
+- Para ubicaciones patrocinadas:
+  - Envía los **Reportes de Reuniones** y **Reportes Financieros** según lo acordado con tu patrocinador.
+  - Participa en las llamadas de coordinación programadas con tu patrocinador o red de organizadores.
+  - Usa los canales de comunicación acordados para preguntas rápidas, colaboración o aprendizaje entre pares.
 
-### External Communication
+### Comunicación Externa
 
-- Share concise, educational recaps on your website or social channels after each meetup.
-- Keep communication Bitcoin-focused, non-commercial, and aligned with BitDevs’ technical ethos.
-- Avoid branding that suggests affiliation with companies unless it is part of a transparent sponsorship acknowledgment.
+- Comparte resúmenes concisos y educativos en tu sitio web o canales sociales después de cada reunión.
+- Mantén la comunicación enfocada en Bitcoin, no comercial y alineada con el espíritu técnico de BitDevs.
+- Evita marcas que sugieran afiliación con compañías a menos que sea parte de un reconocimiento transparente de patrocinio.
 
-Running a BitDevs location is an ongoing commitment to consistency, transparency, and technical excellence. Organizers who maintain clear planning routines, foster discussion-based learning, and actively engage their communities build lasting, self-sustaining ecosystems of developers and builders. 
+Operar una ubicación de BitDevs es un compromiso continuo con la consistencia, transparencia y excelencia técnica. Los organizadores que mantienen rutinas claras de planificación, fomentan el aprendizaje basado en discusiones y participan activamente con sus comunidades construyen ecosistemas duraderos y autosustentables de desarrolladores y constructores.

@@ -1,37 +1,37 @@
-# Reopening or Reapplying
+# Reapertura o Nueva Solicitud
 
-Communities evolve, and many paused locations eventually return stronger, with new energy or leadership. The BitDevs network encourages such revivals when there is renewed local interest and a clear plan for sustainability. 
+Las comunidades evolucionan, y muchas ubicaciones pausadas eventualmente regresan más fuertes, con nueva energía o liderazgo. La red BitDevs fomenta tales resurgimientos cuando hay renovado interés local y un plan claro para la sostenibilidad.
 
-## Reopening Process (General)
+## Proceso de Reapertura (General)
 
-If your location was previously paused or closed, reopening should follow the same intentional standards as starting fresh, while building on past experience.
+Si tu ubicación fue previamente pausada o cerrada, la reapertura debería seguir los mismos estándares intencionales que comenzar desde cero, mientras se construye sobre la experiencia pasada.
 
-- **Refer Back to Setup Guidance**  
-  Review [*Starting a BitDevs Location*](02-starting-a-bitdevs-location/01-setting-up-a-location.md) to realign with the core purpose, principles, and operational expectations.
+- **Consultar la Guía de Configuración**
+  Revisa [*Iniciar una Ubicación de BitDevs*](02-starting-a-bitdevs-location/01-setting-up-a-location.md) para realinearte con el propósito fundamental, principios y expectativas operacionales.
 
-- **Assess Local Demand**  
-  Confirm that a technical Bitcoin community still exists or can realistically be revived in your area through outreach, conversations, or pilot sessions.
+- **Evaluar la Demanda Local**
+  Confirma que una comunidad técnica de Bitcoin aún existe o puede ser realísticamente revivida en tu área a través de divulgación, conversaciones o sesiones piloto.
 
-- **Assemble a Core Team**  
-  Identify at least two organizers committed to relaunching and sustaining meetups on a regular basis.
+- **Reunir un Equipo Base**
+  Identifica al menos dos organizadores comprometidos a relanzar y sostener reuniones de manera regular.
 
-- **Review and Update Materials**  
-  Use previous documentation, reports, and lessons learned as a foundation. Update goals, formats, or processes where needed.
+- **Revisar y Actualizar Materiales**
+  Usa documentación previa, reportes y lecciones aprendidas como base. Actualiza objetivos, formatos o procesos donde sea necesario.
 
-- **Announce the Relaunch**  
-  Communicate publicly about the location’s return through your website or social channels. Reference earlier activities to maintain continuity and credibility.
+- **Anunciar el Relanzamiento**
+  Comunica públicamente sobre el regreso de la ubicación a través de tu sitio web o canales sociales. Referencia actividades anteriores para mantener continuidad y credibilidad.
 
-### Reapplication (for Btrust-Sponsored Locations)
+### Nueva Solicitud (para Ubicaciones que Buscan Patrocinio)
 
-Locations that were previously sponsored by Btrust may reapply for support.
+Las ubicaciones que fueron previamente patrocinadas pueden solicitar nuevamente apoyo.
 
-- Reapply using the standard sponsorship [application form](https://btrust.homerun.co/bitdevs-application-sponsorship/en).
-- Include a short summary of the location’s previous history and performance.
-- Clearly explain what has changed (e.g., new organizers, improved structure, refined focus).
-- Present a realistic plan for sustainable operations and community growth.
+- Aplica usando el proceso de solicitud de patrocinio estándar del patrocinador potencial.
+- Incluye un breve resumen del historial y desempeño previo de la ubicación.
+- Explica claramente qué ha cambiado (ej., nuevos organizadores, estructura mejorada, enfoque refinado).
+- Presenta un plan realista para operaciones sostenibles y crecimiento comunitario.
 
-Btrust reviews reapplications based on readiness, prior engagement, lessons learned, and current community demand. Approved locations may receive a new three-month trial sponsorship before returning to full active status.
+Los patrocinadores revisan nuevas solicitudes basándose en preparación, compromiso previo, lecciones aprendidas y demanda comunitaria actual. Las ubicaciones aprobadas pueden recibir un nuevo período de prueba antes de retornar al estado activo completo.
 
-This process ensures that returning locations restart with improved structure, renewed capacity, and insights gained from earlier experience.
+Este proceso asegura que las ubicaciones que retornan reinicien con estructura mejorada, capacidad renovada y conocimientos obtenidos de la experiencia anterior.
 
-*(See: [Annex K: Location Closure and Handover Checklist.](08-annexes.md))*
+*(Ver: [Anexo K: Lista de Verificación de Cierre y Traspaso de Ubicación.](08-annexes.md))*

@@ -1,30 +1,32 @@
-# Community Conduct and Ethics
+# Conducta y Ética Comunitaria
 
-A high-quality BitDevs community is defined not only by its technical content, but also by its culture. Each location must uphold a respectful, inclusive, and collaborative environment where all participants feel safe to learn, question, and contribute. 
+Una comunidad BitDevs de alta calidad se define no solo por su contenido técnico, sino también por su cultura. Cada ubicación debe mantener un ambiente respetuoso, inclusivo y colaborativo donde todos los participantes se sientan seguros para aprender, cuestionar y contribuir.
 
-## Community Principles
+## Principios Comunitarios
 
-All BitDevs locations are expected to uphold the following principles: 
+Se espera que todas las ubicaciones de BitDevs mantengan los siguientes principios:
 
-1. **Respect and Professionalism**  
-   Treat every participant equally, regardless of background, experience, or opinions. Personal attacks, harassment, or discriminatory remarks are not tolerated.
+1. **Respeto y Profesionalismo**
+   Trata a cada participante por igual, independientemente de su origen, experiencia u opiniones. Los ataques personales, acoso o comentarios discriminatorios no son tolerados.
 
-2. **Constructive Dialogue**  
-   Encourage debate and critical thinking while keeping discussions fact-based, technical, and courteous.
+2. **Diálogo Constructivo**
+   Fomenta el debate y el pensamiento crítico mientras mantienes las discusiones basadas en hechos, técnicas y corteses.
 
-3. **Inclusivity**  
-   Proactively welcome participants from underrepresented groups in tech, including women and young developers, and foster an environment where diverse perspectives are valued.
+3. **Inclusividad**
+   Recibe proactivamente a participantes de grupos subrepresentados en tecnología, incluyendo mujeres y desarrolladores jóvenes, y fomenta un ambiente donde las perspectivas diversas sean valoradas.
 
-4. **Non-Commercial Integrity**  
-   Avoid marketing, sponsorship pitches, or financial incentives during meetups. All speakers and attendees participate as learners and contributors, not as customers or authorities.
+4. **Integridad No Comercial**
+   Evita marketing, propuestas de patrocinio o incentivos financieros durante las reuniones. Todos los presentadores y asistentes participan como aprendices y contribuidores, no como clientes o autoridades.
 
-5. **Transparency**  
-   Communicate clearly about sponsorships, funding usage, and partnerships to maintain community trust and accountability.
+5. **Transparencia**
+   Comunica claramente sobre patrocinios, uso de fondos y colaboraciones para mantener la confianza y responsabilidad comunitaria.
 
-## Code of Conduct Requirements (Btrust-Sponsored Locations)
+## Implementación del Código de Conducta
 
-For Btrust-sponsored locations:
+Para todas las ubicaciones de BitDevs, se recomienda:
 
-- This Code of Conduct must be shared publicly (for example, on the location website or meetup registration page).
-- All organizers and moderators must be familiar with and committed to enforcing these standards.
-- Any reported violations should be documented and communicated during the next organizer check-in or through the Btrust support channel for guidance and resolution.
+- Compartir públicamente este Código de Conducta (por ejemplo, en el sitio web de la ubicación o página de registro de reuniones).
+- Asegurar que todos los organizadores y moderadores estén familiarizados y comprometidos con hacer cumplir estos estándares.
+- Documentar cualquier violación reportada y, para ubicaciones patrocinadas, comunicarla durante la próxima sesión de coordinación con el patrocinador o a través de los canales de apoyo acordados para orientación y resolución.
+
+Mantener un ambiente seguro y respetuoso es responsabilidad de todos los organizadores y beneficia a toda la comunidad, independientemente del modelo de financiamiento.

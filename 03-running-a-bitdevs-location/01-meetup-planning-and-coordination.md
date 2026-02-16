@@ -1,29 +1,29 @@
-# Meetup Planning and Coordination
+# Planificación y Coordinación de Reuniones
 
-Once a BitDevs location is established, the focus moves from setup to sustainability. Running a location means keeping discussions consistent, participation active, and community values strong. This section provides practical guidance on planning effective meetups, choosing relevant topics, fostering meaningful engagement, and maintaining operational standards.
+Una vez que una ubicación de BitDevs está establecida, el enfoque se mueve de la configuración a la sostenibilidad. Operar una ubicación significa mantener las discusiones consistentes, la participación activa y los valores comunitarios sólidos. Esta sección proporciona orientación práctica sobre planificar reuniones efectivas, elegir temas relevantes, fomentar una participación significativa y mantener estándares operacionales.
 
-## Scheduling
+## Programación
 
-- Host meetups at a fixed frequency (ideally monthly) on a consistent day of the week or month, such as the last Thursday of each month.
-- Publish your event calendar in advance on your website and social media to help attendees plan ahead.
-- Avoid long gaps between meetups; consistency builds trust and encourages retention.
+- Organiza reuniones con una frecuencia fija (idealmente mensual) en un día consistente de la semana o mes, como el último jueves de cada mes.
+- Publica tu calendario de eventos con anticipación en tu sitio web y redes sociales para ayudar a los asistentes a planificar.
+- Evita largos intervalos entre reuniones; la consistencia genera confianza y fomenta la retención.
 
-## Venue and Logistics
+## Lugar y Logística
 
-- Choose a neutral, accessible venue such as a tech hub, university innovation space, or co-working center.
-- Ensure the space has reliable power, Wi-Fi, a projector or screen, and seating adequate for your expected audience.
-- Keep the setup simple. Focus on a comfortable, discussion-friendly environment rather than elaborate decorations.
+- Elige un lugar neutral y accesible como un centro tecnológico, espacio de innovación universitario o centro de coworking.
+- Asegura que el espacio tenga energía confiable, Wi-Fi, un proyector o pantalla, y asientos adecuados para tu audiencia esperada.
+- Mantén la configuración simple. Enfócate en un ambiente cómodo y propicio para la discusión en lugar de decoraciones elaboradas.
 
-### Operational Coordination
+### Coordinación Operacional
 
-- Assign clear responsibilities within your organizing team for venue booking, content preparation, communication, and reporting.
-- Maintain a running checklist for each event covering key steps: topic confirmation, speaker communication, logistics, materials, refreshments, and follow-up tasks.
-- For Btrust-sponsored locations:
-  - Submit monthly expense requests by the 10th of the month.
-  - Track all expenses and upload receipts after each meetup to your location folder.
+- Asigna responsabilidades claras dentro de tu equipo organizador para reserva de lugar, preparación de contenido, comunicación y reportes.
+- Mantén una lista de verificación continua para cada evento cubriendo pasos clave: confirmación de temas, comunicación con presentadores, logística, materiales, refrigerios y tareas de seguimiento.
+- Para ubicaciones patrocinadas:
+  - Sigue el proceso de gastos acordado con tu patrocinador.
+  - Rastrea todos los gastos y sube recibos después de cada reunión según lo acordado.
 
-### Time Management
+### Gestión del Tiempo
 
-- Start on time and aim to keep the total duration within 90 minutes to 2 hours.
-- Allocate time for introductions, discussions, and networking.
-- Use a timer to keep sessions on track and prevent any one topic from dominating the discussion.
+- Comienza a tiempo y apunta a mantener la duración total entre 90 minutos y 2 horas.
+- Asigna tiempo para presentaciones, discusiones y networking.
+- Usa un temporizador para mantener las sesiones en curso y prevenir que un tema domine la discusión.

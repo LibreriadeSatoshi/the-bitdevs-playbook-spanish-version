@@ -1,30 +1,30 @@
-# Choosing Topics and Formats
+# Elegir Temas y Formatos
 
-A BitDevs meetup is not a lecture or panel; it’s a collaborative technical discussion. Learning happens through dialogue and analysis, not one-way presentations. 
+Una reunión de BitDevs no es una conferencia o panel; es una discusión técnica colaborativa. El aprendizaje ocurre a través del diálogo y el análisis, no de presentaciones unidireccionales.
 
-## Choosing Topics
+## Elegir Temas
 
-- Prioritize Bitcoin protocol updates, research papers, developer mailing lists, BIPs, and open-source project developments.
-- Explore practical applications such as wallet design, Lightning development, or privacy tooling.
-- Balance content between deep technical discussions for regular attendees and accessible topics to onboard new participants.
-- Reference global BitDevs archives for inspiration (e.g., [NYC](https://bitdevs.org/), [London](https://londonbitdevs.org/), [Austin](https://austinbitdevs.com/)). See [Delving Bitcoin](https://delvingbitcoin.org/) or [Bitcoin-OPS](https://bitcoinops.org/) for latest and historical Bitcoin technical topics.
+- Prioriza actualizaciones del protocolo Bitcoin, artículos de investigación, listas de correo de desarrolladores, BIPs y desarrollos de proyectos de código abierto.
+- Explora aplicaciones prácticas como diseño de wallets, desarrollo de Lightning o herramientas de privacidad.
+- Equilibra el contenido entre discusiones técnicas profundas para asistentes regulares y temas accesibles para incorporar nuevos participantes.
+- Consulta archivos de BitDevs globales para inspiración (ej., [NYC](https://bitdevs.org/), [London](https://londonbitdevs.org/), [Austin](https://austinbitdevs.com/)). Ve [Delving Bitcoin](https://delvingbitcoin.org/) o [Bitcoin-OPS](https://bitcoinops.org/) para temas técnicos de Bitcoin actuales e históricos.
 
-## Structuring the Meetup
+## Estructurar la Reunión
 
-- Open with a short welcome and reminder of BitDevs principles: Bitcoin-only, technical focus, open dialogue, and privacy.
-- Follow the [Socratic Seminar](https://bitdevs.org/running-a-great-socratic-seminar/) style: moderators introduce curated topics one by one, summarize briefly, and prompt discussion.
-- Encourage contributions from attendees by asking open-ended questions and allowing debate and clarification.
-- Keep each topic segment between **10–15 minutes**, depending on complexity.
-- Close with community announcements, upcoming events, or project updates from local contributors. 
+- Abre con una bienvenida breve y recordatorio de los principios de BitDevs: solo Bitcoin, enfoque técnico, diálogo abierto y privacidad.
+- Sigue el estilo de [Seminario Socrático](https://bitdevs.org/running-a-great-socratic-seminar/): los moderadores introducen temas seleccionados uno por uno, resumen brevemente y promueven la discusión.
+- Fomenta contribuciones de los asistentes haciendo preguntas abiertas y permitiendo debate y aclaración.
+- Mantén cada segmento de tema entre **10–15 minutos**, dependiendo de la complejidad.
+- Cierra con anuncios comunitarios, próximos eventos o actualizaciones de proyectos de contribuidores locales.
 
-## Speakers and Presentations
+## Presentadores y Presentaciones
 
-- Guest presentations should be technical, educational, and aligned with open-source values. No product pitches or marketing.
-- Limit each presentation to 10–15 minutes and reserve time for questions.
-- For Btrust-sponsored locations, guest speakers should be pre-approved if they involve funded logistics.
+- Las presentaciones de invitados deben ser técnicas, educativas y alineadas con valores de código abierto. Sin promociones de productos o marketing.
+- Limita cada presentación a 10–15 minutos y reserva tiempo para preguntas.
+- Para ubicaciones patrocinadas, los presentadores invitados deberían ser aprobados previamente si involucran logística financiada.
 
-## Privacy and Culture
+## Privacidad y Cultura
 
-- Apply [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule): participants may share insights but not attribute quotes or identities.
-- Avoid photography or recording unless explicitly approved by all attendees.
-- Always foster an environment of respect, curiosity, and open exchange. 
+- Aplica las [Reglas de Chatham House](https://en.wikipedia.org/wiki/Chatham_House_Rule): los participantes pueden compartir conocimientos pero no atribuir citas o identidades.
+- Evita fotografía o grabación a menos que sea explícitamente aprobado por todos los asistentes.
+- Siempre fomenta un ambiente de respeto, curiosidad e intercambio abierto.

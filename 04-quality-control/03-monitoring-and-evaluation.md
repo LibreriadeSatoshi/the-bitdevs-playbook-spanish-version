@@ -1,34 +1,34 @@
-# Monitoring and Evaluation
+# Monitoreo y Evaluación
 
-To sustain excellence, BitDevs locations are encouraged to regularly assess their performance and document progress. Monitoring and evaluation are not about enforcement, but about learning, continuous improvement, and scaling what works across the network. 
+Para sostener la excelencia, se anima a las ubicaciones de BitDevs a evaluar regularmente su desempeño y documentar el progreso. El monitoreo y evaluación no se tratan de cumplimiento forzoso, sino de aprendizaje, mejora continua y escalamiento de lo que funciona a través de la red.
 
-## Self-Monitoring Practices
+## Prácticas de Auto-Monitoreo
 
-Each location should take ownership of its quality by regularly reflecting on its activities and outcomes:
+Cada ubicación debería tomar responsabilidad de su calidad reflexionando regularmente sobre sus actividades y resultados:
 
-- **Quarterly Reviews**  
-  Review meetups every quarter, focusing on attendance trends, participant feedback, and the overall quality of discussions.
+- **Revisiones Trimestrales**
+  Revisa las reuniones cada trimestre, enfocándote en tendencias de asistencia, retroalimentación de participantes y la calidad general de las discusiones.
 
-- **Capacity Building**  
-  Rotate facilitation and organizational duties among team members to build resilience, reduce burnout, and introduce fresh perspectives.
+- **Desarrollo de Capacidades**
+  Rota la facilitación y deberes organizacionales entre los miembros del equipo para construir resiliencia, reducir el agotamiento e introducir perspectivas frescas.
 
-- **Content Alignment**  
-  Periodically assess whether topics and discussions align with BitDevs’ technical goals and the evolving needs of the local community.
+- **Alineación de Contenido**
+  Evalúa periódicamente si los temas y discusiones se alinean con los objetivos técnicos de BitDevs y las necesidades evolutivas de la comunidad local.
 
-## Network-Level Monitoring (Btrust-Sponsored Locations)
+## Monitoreo a Nivel de Red (Ubicaciones Patrocinadas)
 
-Btrust applies a light but structured review process to maintain accountability and network-wide quality:
+Las ubicaciones patrocinadas generalmente siguen un proceso de revisión ligero pero estructurado para mantener responsabilidad y calidad en toda la red:
 
-- **Monthly Reports**  
-  Meetup and finance reports are reviewed to confirm ongoing activity, adherence to standards, and responsible use of funds.
+- **Reportes Regulares**
+  Los reportes de reuniones y finanzas son revisados por los patrocinadores para confirmar actividad continua, adhesión a estándares y uso responsable de fondos.
 
-- **Quarterly Reviews**  
-  Locations receive aggregated feedback based on submitted reports, event summaries, and peer observations across the network.
+- **Revisiones Periódicas**
+  Las ubicaciones reciben retroalimentación agregada basada en reportes enviados, resúmenes de eventos y observaciones entre pares a través de la red.
 
-- **Organizer Check-ins**  
-  Regular organizer calls serve as peer-learning sessions where challenges, successes, and best practices are shared. Physical site visits by the Btrust team may also be conducted periodically.
+- **Sesiones de Coordinación**
+  Las llamadas regulares de organizadores sirven como sesiones de aprendizaje entre pares donde se comparten desafíos, éxitos y mejores prácticas. Visitas físicas al sitio por parte del equipo del patrocinador también pueden realizarse periódicamente.
 
-- **Support and Capacity Building**  
-  If a location experiences recurring challenges (such as low turnout or organizational gaps), the Btrust team may provide tailored support, mentorship, or co-hosting guidance.
+- **Apoyo y Desarrollo de Capacidades**
+  Si una ubicación experimenta desafíos recurrentes (como baja asistencia o brechas organizacionales), el equipo del patrocinador puede proporcionar apoyo personalizado, mentoría u orientación de co-organización.
 
-This collaborative monitoring approach ensures that locations remain aligned with BitDevs values, improve continuously, and maintain visibility and credibility across the broader network.
+Este enfoque colaborativo de monitoreo asegura que las ubicaciones permanezcan alineadas con los valores de BitDevs, mejoren continuamente y mantengan visibilidad y credibilidad a través de la red más amplia.

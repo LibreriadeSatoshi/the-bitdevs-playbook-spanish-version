@@ -1,28 +1,28 @@
-# Growing and Engaging the Community
+# Crecimiento y Participación de la Comunidad
 
-The strength of a BitDevs location lies in its people: engaged, curious participants who contribute ideas and discussions. Building this community requires intentional outreach and inclusion.
+La fortaleza de una ubicación de BitDevs radica en su gente: participantes comprometidos y curiosos que contribuyen ideas y discusiones. Construir esta comunidad requiere divulgación e inclusión intencionales.
 
-## Attracting Participants
+## Atraer Participantes
 
-- Share meetups on social media, Bitcoin forums, and local tech communities.
-- Encourage attendees to bring colleagues or friends interested in Bitcoin development.
-- Partner with developer hubs or blockchain clubs at universities to introduce new audiences.
+- Comparte reuniones en redes sociales, foros de Bitcoin y comunidades tecnológicas locales.
+- Anima a los asistentes a traer colegas o amigos interesados en el desarrollo de Bitcoin.
+- Colabora con centros de desarrolladores o clubes de blockchain en universidades para introducir nuevas audiencias.
 
-## Retaining and Supporting Members
+## Retener y Apoyar Miembros
 
-- Maintain consistent communication via your community platform (WhatsApp, Telegram, or Discord).
-- Welcome newcomers warmly, provide a short introduction to what BitDevs is, and clarify that no prior expertise is required to participate.
-- Collect post-event feedback and use it to improve structure and content.
-- Recognize active contributors; those who consistently attend, volunteer, or present, to build a sense of belonging.
+- Mantén comunicación consistente a través de tu plataforma comunitaria (WhatsApp, Telegram, Signal o Discord).
+- Recibe calurosamente a los recién llegados, proporciona una breve introducción a qué es BitDevs y aclara que no se requiere experiencia previa para participar.
+- Recolecta retroalimentación post-evento y úsala para mejorar la estructura y el contenido.
+- Reconoce a los contribuidores activos; aquellos que asisten consistentemente, se ofrecen como voluntarios o presentan, para construir un sentido de pertenencia.
 
-## Fostering an Inclusive Environment
+## Fomentar un Ambiente Inclusivo
 
-- Keep the discussion open and merit-based, focusing on ideas rather than hierarchy.
-- Encourage gender diversity and participation from underrepresented groups in tech.
-- Offer mentorship or study group sessions for those eager to deepen their understanding.
+- Mantén la discusión abierta y basada en méritos, enfocándote en ideas en lugar de jerarquías.
+- Fomenta la diversidad de género y la participación de grupos subrepresentados en tecnología.
+- Ofrece mentoría o sesiones de grupos de estudio para aquellos ansiosos por profundizar su comprensión.
 
-## Sustaining Momentum
+## Mantener el Impulso
 
-- Supplement monthly meetups with study circles, hack sessions, or workshops to maintain engagement.
-- Collaborate with other local locations for cross-city discussions or shared sessions.
-- For Btrust-sponsored locations: participate in the monthly organizers’ call to share lessons and stay aligned with network-wide activities. 
+- Complementa las reuniones mensuales con círculos de estudio, sesiones de hacking o talleres para mantener el compromiso.
+- Colabora con otras ubicaciones locales para discusiones entre ciudades o sesiones compartidas.
+- Para ubicaciones con patrocinio o redes organizadas: participa en llamadas de coordinación para compartir lecciones y mantenerse alineado con actividades de la red. Las ubicaciones independientes también pueden buscar conexiones con otras ubicaciones de BitDevs para intercambio de aprendizajes.

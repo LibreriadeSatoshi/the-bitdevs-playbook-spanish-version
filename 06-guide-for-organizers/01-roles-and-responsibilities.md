@@ -1,54 +1,54 @@
-# Guide for Organizers 
+# Guía para Organizadores
 
-This section serves as a toolkit for BitDevs organizers. It provides clear guidance on roles, responsibilities, and best practices to help lead effectively and build strong, collaborative teams. It is designed to help both new and active locations improve operations, strengthen leadership, and foster personal growth as community builders. 
+Esta sección sirve como un conjunto de herramientas para organizadores de BitDevs. Proporciona orientación clara sobre roles, responsabilidades y mejores prácticas para liderar de manera efectiva y construir equipos sólidos y colaborativos. Está diseñada para ayudar tanto a ubicaciones nuevas como activas a mejorar sus operaciones, fortalecer el liderazgo y fomentar el crecimiento personal como constructores de comunidad.
 
-# Roles and Responsibilities
+# Roles y Responsabilidades
 
-This section defines what it means to be a BitDevs organizer and outlines the roles and responsibilities required to run a high-quality, sustainable location.
+Esta sección define lo que significa ser un organizador de BitDevs y describe los roles y responsabilidades necesarios para operar una ubicación de alta calidad y sostenible.
 
-## Who Should Be an Organizer? 
+## ¿Quién Debería Ser Organizador?
 
-A BitDevs organizer is first and foremost a Bitcoin learner and community builder. You do not need to be a professional developer, but you should have a strong interest in Bitcoin’s technical layer, open-source culture, and community education.
+Un organizador de BitDevs es, ante todo, un aprendiz de Bitcoin y un constructor de comunidad. No necesitas ser un desarrollador profesional, pero deberías tener un fuerte interés en la capa técnica de Bitcoin, la cultura de código abierto y la educación comunitaria.
 
-Organizers are expected to demonstrate integrity, curiosity, and consistency.
+Se espera que los organizadores demuestren integridad, curiosidad y consistencia.
 
-**Ideal profile of an organizer:**
-- Actively involved in local or online Bitcoin technical discussions or open-source communities.
-- Reliable and able to plan, coordinate, and follow through on commitments.
-- Communicates clearly and respectfully in group settings.
-- Understands, or is eager to learn, Bitcoin development concepts.
-- Values nuance, neutrality, collaboration, and continuous learning.
+**Perfil ideal de un organizador:**
+- Participación activa en discusiones técnicas de Bitcoin locales o en línea, o en comunidades de código abierto.
+- Confiable y capaz de planificar, coordinar y cumplir con los compromisos.
+- Se comunica de manera clara y respetuosa en entornos grupales.
+- Comprende, o está dispuesto a aprender, conceptos de desarrollo de Bitcoin.
+- Valora el matiz, la neutralidad, la colaboración y el aprendizaje continuo.
 
-## Organizer Roles
+## Roles del Organizador
 
-Each BitDevs location may structure its organizing team differently, but the following roles are commonly found across strong and sustainable communities.
+Cada ubicación de BitDevs puede estructurar su equipo organizador de manera diferente, pero los siguientes roles se encuentran comúnmente en comunidades sólidas y sostenibles.
 
-> **Note:** Some roles may be handled by the same person. Where necessary, it is advised to limit individuals to no more than two roles to avoid burnout.
+> **Nota:** Algunos roles pueden ser desempeñados por la misma persona. Cuando sea necesario, se recomienda limitar a cada individuo a no más de dos roles para evitar el agotamiento.
 
-| Role | Key Responsibilities |
-|-----|----------------------|
-| **Lead Organizer (required)** | Oversees overall location operations, represents the group in communications with sponsors or partners, and ensures consistency in meetups, documentation, and reporting |
-| **Co-organizer(s)** | Supports event planning, topic selection, community engagement, and documentation. May lead sessions or manage logistics |
-| **Technical Lead (required)** | Curates and reviews technical discussion topics, ensures content quality, and may moderate Socratic seminars |
-| **Finance or Admin Lead (required)** | Manages budgeting, expense tracking, reimbursements, and financial reporting |
-| **Volunteer Support** | Assists with event-day logistics such as venue setup, check-ins, photography (with consent), or coordination |
+| Rol | Responsabilidades Principales |
+|-----|-------------------------------|
+| **Organizador Principal (requerido)** | Supervisa las operaciones generales de la ubicación, representa al grupo en comunicaciones con patrocinadores o colaboradores, y asegura la consistencia en reuniones, documentación y reportes |
+| **Co-organizador(es)** | Apoya la planificación de eventos, selección de temas, participación comunitaria y documentación. Puede liderar sesiones o gestionar la logística |
+| **Líder Técnico (requerido)** | Curación y revisión de temas de discusión técnica, asegura la calidad del contenido y puede moderar seminarios socráticos |
+| **Líder de Finanzas o Administración (requerido)** | Gestiona presupuestos, seguimiento de gastos, reembolsos e informes financieros |
+| **Apoyo Voluntario** | Asiste con la logística del día del evento, como preparación del lugar, registro, fotografía (con consentimiento) o coordinación |
 
-## Key Responsibilities
+## Responsabilidades Principales
 
-Organizers are collectively responsible for maintaining the location’s credibility, growth, and alignment with BitDevs principles.
+Los organizadores son colectivamente responsables de mantener la credibilidad, el crecimiento y la alineación de la ubicación con los principios de BitDevs.
 
-**Core responsibilities include:**
-- Hosting consistent, high-quality meetups.
-- Selecting and preparing relevant technical topics for discussion.
-- Managing event logistics (venue, refreshments, communication).
-- Uploading meetup notes, summaries, and conclusions to the BitDevs website.
-- Keeping records, reports, and shared folders up to date.
-- Upholding neutrality and open-source ethics.
-- Maintaining a welcoming, respectful, and inclusive environment.
+**Las responsabilidades principales incluyen:**
+- Organizar reuniones consistentes y de alta calidad.
+- Seleccionar y preparar temas técnicos relevantes para discusión.
+- Gestionar la logística del evento (lugar, refrigerios, comunicación).
+- Subir notas, resúmenes y conclusiones de las reuniones al sitio web de BitDevs.
+- Mantener registros, reportes y carpetas compartidas actualizados.
+- Defender la neutralidad y la ética de código abierto.
+- Mantener un ambiente acogedor, respetuoso e inclusivo.
 
-## Additional Responsibilities for Btrust-Sponsored Locations
+## Responsabilidades Adicionales para Ubicaciones Patrocinadas
 
-For locations receiving Btrust sponsorship, organizers must also:
-- Attend monthly organizer check-ins with the Btrust team.
-- Submit both Meetup Reports and Finance Reports after each event.
-- Operate within the funding, documentation, and conduct guidelines outlined in this playbook.
+Para ubicaciones que reciben patrocinio (por ejemplo, a través de Btrust u otros programas de apoyo), los organizadores también deben:
+- Asistir a reuniones periódicas de seguimiento con el equipo del patrocinador.
+- Presentar tanto Reportes de Reunión como Reportes Financieros después de cada evento.
+- Operar dentro de las directrices de financiamiento, documentación y conducta establecidas por el patrocinador o descritas en este playbook.

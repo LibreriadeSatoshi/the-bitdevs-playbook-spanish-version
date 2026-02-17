@@ -1,30 +1,30 @@
-# Recommended Tools and Resources
+# Herramientas y Recursos Recomendados
 
-The right tools and resources help organizers run efficient meetups, stay organized, and maintain consistent communication and reporting standards.
+Las herramientas y recursos adecuados ayudan a los organizadores a realizar reuniones eficientes, mantenerse organizados y mantener estándares consistentes de comunicación y reporte.
 
-## Event and Communication Tools
+## Herramientas de Eventos y Comunicación
 
-Recommended tools include:
-- [Clooza](https://clooza.com/), [Evento](https://evento.so/) or [Luma](https://lu.ma/) for event registration and attendance tracking.
-- Telegram, WhatsApp, Signal, or Discord for internal coordination and community engagement.
-- Nostr and X (formerly Twitter) for announcements, event recaps, and public communication.
-- GitHub or Google Drive for file sharing, reports, and documentation.
+Las herramientas recomendadas incluyen:
+- [Meetup](https://www.meetup.com/), [Evento](https://evento.so/) o [Luma](https://lu.ma/) para registro de eventos y seguimiento de asistencia.
+- Telegram, WhatsApp, Signal o Discord para coordinación interna y participación comunitaria.
+- Nostr y X (anteriormente Twitter) para anuncios, resúmenes de eventos y comunicación pública.
+- GitHub o Google Drive para compartir archivos, reportes y documentación.
 
-Locations may choose tools that best suit their local context, provided records remain accessible and well-maintained.
+Las ubicaciones pueden elegir las herramientas que mejor se adapten a su contexto local, siempre que los registros permanezcan accesibles y bien mantenidos.
 
-## Planning and Reporting Templates
+## Plantillas de Planificación y Reporte
 
-Organizers can adapt or create the following templates:
-- Meetup Report Template – Summarizes event goals, turnout, discussion topics, and key highlights.
-- Finance Report Template – Details all expenses, receipts, and balances.
-- Annual Summary Template – Supports long-term review of location growth, activity, and impact.
+Los organizadores pueden adaptar o crear las siguientes plantillas:
+- Plantilla de Reporte de Reunión – Resume los objetivos del evento, asistencia, temas de discusión y puntos destacados.
+- Plantilla de Reporte Financiero – Detalla todos los gastos, recibos y saldos.
+- Plantilla de Resumen Anual – Apoya la revisión a largo plazo del crecimiento, actividad e impacto de la ubicación.
 
-For Btrust-sponsored locations, all required templates are pre-provided through the shared folder system and must be used consistently.
+Para ubicaciones patrocinadas, todas las plantillas requeridas suelen ser proporcionadas a través del sistema de carpetas compartidas del patrocinador y deben utilizarse de manera consistente.
 
-## Learning Resources
+## Recursos de Aprendizaje
 
-To maintain technical depth and stay current, organizers and participants are encouraged to use:
-- [Bitcoin Optech Newsletter](https://bitcoinops.org/en/newsletters/) for weekly Bitcoin technical updates.
-- [Bitcoin Core Review Club](https://bitcoincore.reviews/) for deeper protocol and code-level learning.
-- [Local developer communities](https://www.btrust.tech/bitdevs) for collaboration and peer knowledge exchange.
-- https://delvingbitcoin.org/ and https://bitcoinops.org/ for up-to-date Bitcoin technical discussions, research, and historical references. 
+Para mantener la profundidad técnica y estar al día, se anima a organizadores y participantes a utilizar:
+- [Bitcoin Optech Newsletter](https://bitcoinops.org/en/newsletters/) para actualizaciones técnicas semanales de Bitcoin.
+- [Bitcoin Core Review Club](https://bitcoincore.reviews/) para aprendizaje más profundo a nivel de protocolo y código.
+- [Comunidades locales de desarrolladores](https://www.btrust.tech/bitdevs) para colaboración e intercambio de conocimiento entre pares.
+- https://delvingbitcoin.org/ y https://bitcoinops.org/ para discusiones técnicas actualizadas, investigación y referencias históricas de Bitcoin.

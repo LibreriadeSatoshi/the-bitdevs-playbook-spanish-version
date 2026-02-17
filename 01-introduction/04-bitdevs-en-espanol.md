@@ -12,6 +12,11 @@ Ubicaciones reconocidas de BitDevs en español:
 
 ### América Latina
 - [BitDevs Buenos Aires](https://bitdevsba.org/) – Argentina
+- [BitDevs Córdoba](https://bitdevscordoba.org/) – Argentina
+- [BitDevs Santiago](https://santiagobitdevs.com/) – Chile
+
+### Online
+- [BitDevs Latino](https://www.bitdevs.lat/) – Comunidad hispanohablante general
 
 Esta red continúa creciendo a medida que más ciudades en el mundo hispanohablante dan el paso adelante para construir, aprender y liderar dentro de la comunidad global de Bitcoin.
 

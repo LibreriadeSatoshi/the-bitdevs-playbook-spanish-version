@@ -5,6 +5,8 @@
 [![Contacto](https://img.shields.io/badge/contacto-builders@btrust.tech-deepgreen?style=flat-square)](mailto:builders@btrust.tech)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-blue?style=flat-square)](LICENSE.md)
 
+> **Nota**: Este repositorio es una versión traducida y adaptada al español del [The BitDevs Playbook](https://github.com/btrustteam/the-bitdevs-playbook) original de Btrust. Todos los créditos del contenido original corresponden a sus autores y contribuidores.
+>
 > **Estado:** Versión en español (v0.1.0-es) - Febrero 2026. Basada en la versión original activamente en uso por las ubicaciones de BitDevs apoyadas por Btrust en África.
 >
 > **Nota**: A medida que las ubicaciones de BitDevs crecen, mejoran y comparten nuevas lecciones, este manual evolucionará para reflejar estos conocimientos y fortalecer el ecosistema.
@@ -114,7 +116,7 @@ El manual refleja el ciclo de vida de una ubicación de BitDevs: configuración,
 | Andrea Diaz Correia | Traductora           | Organizadora Principal, BitDevs Buenos Aires | [@AndreaDiazCorreia](https://github.com/AndreaDiazCorreia)
 
 **Patrocinadores de la versión en español:**
-- [Librería de Satoshi](https://libreriasatoshi.com/)
+- [Librería de Satoshi](https://libreriadesatoshi.com/)
 - [b4os](https://b4os.dev/)
 
 Sponsors de BitDevs en Latinoamérica, apoyando el crecimiento de comunidades técnicas de Bitcoin en la región hispanohablante.
